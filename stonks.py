@@ -1,0 +1,91 @@
+import pandas as pd
+import streamlit as st
+import plotly_express as px
+import requests
+import datetime
+from bs4 import BeautifulSoup
+
+
+def load_data():
+    df = pd.read_csv('./data.csv')
+    df['occurences']=pd.to_numeric(df['occurences'])
+    df['positive']=pd.to_numeric(df['positive'])
+    df['negative']=pd.to_numeric(df['negative'])
+    return df
+
+
+def update_data(df):
+    url='https://stocks.comment.ai/trending.html'
+    req = requests.get(url)
+    soup = BeautifulSoup(req.content, 'html.parser')
+    table = soup.find('table', class_='trending_table')
+    rows=list()
+    for row in table.findAll("tr"):
+        rows.append(row)
+    a=[]
+    for x in range(0,len(rows)):
+        for i in rows[x].findAll('td'):
+            a.append(i.text)
+
+    l1=[]
+    l2=[]
+    l3=[]
+    l4=[]
+    for i in range(0,len(a),4):
+        l1.append(a[i])
+    for i in range(1,len(a),4):
+        l2.append(a[i])
+    for i in range(2,len(a),4):
+        l3.append(a[i])
+    for i in range(3,len(a),4):
+        l4.append(a[i])
+
+    d = pd.DataFrame(
+    {
+        'occurences':l1,
+        'sentiment':l2,
+        'ticker':l3,
+        'company':l4,
+        'date':datetime.datetime.now()
+    })
+
+    d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
+    d.columns = ['occurences','sentiment','ticker','company','date','positive','negative','neutral']
+
+    df = pd.concat([df,d])
+    df['occurences']=pd.to_numeric(df['occurences'])
+    df['positive']=pd.to_numeric(df['positive'])
+    df['negative']=pd.to_numeric(df['negative'])
+
+    return df
+
+
+def main():
+    st.title('Stonks')
+
+    df=load_data()
+    df=update_data(df)
+
+    df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
+    df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(lambda x: x.pct_change()).to_numpy()
+
+
+    fig=px.scatter(df,
+              x='date',
+              y='positive',
+              color='ticker',
+                  title='WSB Sentiment Over Time')
+    fig.update_traces(mode='lines+markers',
+                          marker=dict(size=16,
+                                      line=dict(width=1,
+                                                color='DarkSlateGrey')))
+    st.plotly_chart(fig,use_container_width=True)
+
+
+
+
+
+
+if __name__ == "__main__":
+    #execute
+    main()
