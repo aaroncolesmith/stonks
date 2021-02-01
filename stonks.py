@@ -12,6 +12,8 @@ def load_data():
     df['occurences']=pd.to_numeric(df['occurences'])
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
+
+    df['date'] = pd.to_datetime(df['date'])
     return df
 
 
