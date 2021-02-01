@@ -5,6 +5,7 @@ import requests
 import datetime
 from bs4 import BeautifulSoup
 
+st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
 
 def load_data():
     df = pd.read_csv('./data.csv')
@@ -57,6 +58,10 @@ def update_data(df):
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
 
+    df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
+    df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
+         lambda x: x.pct_change()).to_numpy()
+
     return df
 
 
@@ -74,7 +79,7 @@ def main():
               x='date',
               y='positive',
               color='ticker',
-                  title='WSB Sentiment Over Time')
+                  title='WSB Postive Sentiment Over Time')
     fig.update_traces(mode='lines+markers',
                           marker=dict(size=16,
                                       line=dict(width=1,
@@ -82,7 +87,28 @@ def main():
     st.plotly_chart(fig,use_container_width=True)
 
 
+    fig=px.scatter(df.loc[df.date == df.date.max()],
+               x='positive',
+               y='pos_pct_chg',
+               color='ticker',
+               title='Most Recent Positive Sentiment vs. Pct Change')
+    fig.update_traces(mode='markers',
+                          marker=dict(size=16,
+                                      line=dict(width=1,
+                                                color='DarkSlateGrey')))
+    st.plotly_chart(fig,use_container_width=True)
 
+
+    fig=px.scatter(df,
+              x='date',
+              y='pos_pct_chg',
+              color='ticker',
+                  title='WSB Positive Sentiment Pct Change Over Time')
+    fig.update_traces(mode='lines+markers',
+                          marker=dict(size=16,
+                                      line=dict(width=1,
+                                                color='DarkSlateGrey')))
+    st.plotly_chart(fig,use_container_width=True)
 
 
 
