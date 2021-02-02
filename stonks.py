@@ -92,6 +92,12 @@ def main():
                           marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
+
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="WSB Positive Sentiment",
+        legend_title="Ticker"
+    )
     st.plotly_chart(fig,use_container_width=True)
 
 
@@ -104,6 +110,11 @@ def main():
                           marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
+    fig.update_layout(
+        xaxis_title="WSB Positive Sentiment",
+        yaxis_title="% Change in Positive Sentiment",
+        legend_title="Ticker"
+    )
     st.plotly_chart(fig,use_container_width=True)
 
 
@@ -112,10 +123,15 @@ def main():
               y='pos_pct_chg',
               color='ticker',
                   title='WSB Positive Sentiment Pct Change Over Time')
-    fig.update_traces(mode='lines+markers',
+    fig.update_traces(mode='lines',
                           marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
+    fig.update_layout(
+        xaxis_title="Date",
+        yaxis_title="% Change in Positive Sentiment",
+        legend_title="Ticker"
+    )
     st.plotly_chart(fig,use_container_width=True)
 
 
