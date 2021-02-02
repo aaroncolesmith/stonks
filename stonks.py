@@ -4,8 +4,9 @@ import plotly_express as px
 import requests
 import datetime
 from bs4 import BeautifulSoup
-from pytz import timezone
-import pytz
+import plotly.io as pio
+
+pio.templates.default = "simple_white"
 
 st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
 
@@ -68,8 +69,6 @@ def update_data(df):
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
          lambda x: x.pct_change()).to_numpy()
 
-
-    # df=df.loc[df.date < pd.to_datetime(datetime.datetime.now())]
     return df
 
 
