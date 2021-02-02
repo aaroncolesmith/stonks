@@ -54,10 +54,6 @@ def update_data(df):
         'date':pd.to_datetime(datetime.datetime.now().astimezone(timezone('US/Pacific')))
     })
 
-    st.write(pd.to_datetime(datetime.datetime.now().astimezone(timezone('US/Pacific'))))
-    st.write(d.date.max())
-    st.write(d.dtypes)
-
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
     d.columns = ['occurences','sentiment','ticker','company','date','positive','negative','neutral']
 
@@ -66,14 +62,7 @@ def update_data(df):
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
 
-    st.write(d.dtypes)
-
-    # st.write(df.date.max())
-
-    # df['date'] = pd.to_datetime(df['date'],utc=True)
     df['date']=pd.to_datetime(df['date'].astype('str').str[:19])
-
-    st.write(d.dtypes)
 
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
@@ -90,8 +79,6 @@ def main():
     df=load_data()
     df=update_data(df)
 
-    st.write(df.date.max())
-
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(lambda x: x.pct_change()).to_numpy()
 
@@ -101,7 +88,7 @@ def main():
               y='positive',
               color='ticker',
                   title='WSB Postive Sentiment Over Time')
-    fig.update_traces(mode='lines+markers',
+    fig.update_traces(mode='lines',
                           marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
