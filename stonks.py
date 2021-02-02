@@ -66,7 +66,7 @@ def update_data(df):
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
 
-    df['date'] = pd.to_datetime(df.date).dt.tz_localize(None)
+    df['date']=pd.to_datetime(df['date'].astype('str')[:18])
 
     # df['date'] = pd.to_datetime(df['date'],utc=True)
 
