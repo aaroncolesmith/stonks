@@ -57,8 +57,6 @@ def update_data(df):
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
     d.columns = ['occurences','sentiment','ticker','company','date','positive','negative','neutral']
 
-    st.write(d.head(10))
-
     df = pd.concat([df,d])
     df['occurences']=pd.to_numeric(df['occurences'])
     df['positive']=pd.to_numeric(df['positive'])
@@ -71,6 +69,7 @@ def update_data(df):
          lambda x: x.pct_change()).to_numpy()
 
     df['date'] = pd.to_datetime(df.date).dt.tz_localize(None)
+    df=df.loc[df.date < pd.to_datetime(datetime.datetime.now())]
     return df
 
 
