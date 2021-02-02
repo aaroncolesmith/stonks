@@ -54,6 +54,8 @@ def update_data(df):
         'date':pd.to_datetime(datetime.datetime.now().astimezone(timezone('US/Pacific')))
     })
 
+    st.write(pd.to_datetime(datetime.datetime.now().astimezone(timezone('US/Pacific'))))
+
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
     d.columns = ['occurences','sentiment','ticker','company','date','positive','negative','neutral']
 
