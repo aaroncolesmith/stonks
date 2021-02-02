@@ -51,7 +51,7 @@ def update_data(df):
         'sentiment':l2,
         'ticker':l3,
         'company':l4,
-        'date':datetime.datetime.now()
+        'date':datetime.datetime.now().astimezone(timezone('US/Pacific'))
     })
 
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
@@ -87,7 +87,7 @@ def main():
               color='ticker',
                   title='WSB Postive Sentiment Over Time')
     fig.update_traces(mode='lines+markers',
-                          marker=dict(size=16,
+                          marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
     st.plotly_chart(fig,use_container_width=True)
@@ -99,7 +99,7 @@ def main():
                color='ticker',
                title='Most Recent Positive Sentiment vs. Pct Change')
     fig.update_traces(mode='markers',
-                          marker=dict(size=16,
+                          marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
     st.plotly_chart(fig,use_container_width=True)
@@ -111,7 +111,7 @@ def main():
               color='ticker',
                   title='WSB Positive Sentiment Pct Change Over Time')
     fig.update_traces(mode='lines+markers',
-                          marker=dict(size=16,
+                          marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
     st.plotly_chart(fig,use_container_width=True)
