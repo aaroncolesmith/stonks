@@ -76,7 +76,7 @@ def update_data(df):
 
 def main():
     st.title('Stonks!!')
-    st.write('Scraping data from [https://stocks.comment.ai/] to see how sentiment from WSB trends over time')
+    st.markdown('Scraping data from [https://stocks.comment.ai/](https://stocks.comment.ai/) to see how sentiment from WSB trends over time')
 
     df=load_data()
     df=update_data(df)
