@@ -5,6 +5,8 @@ import requests
 import datetime
 from bs4 import BeautifulSoup
 import plotly.io as pio
+from pytz import timezone
+import pytz
 
 pio.templates.default = "simple_white"
 
