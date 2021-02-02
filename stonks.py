@@ -64,6 +64,8 @@ def update_data(df):
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
 
+    df['date'] = pd.to_datetime(df['date'],utc=True)
+
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
          lambda x: x.pct_change()).to_numpy()
