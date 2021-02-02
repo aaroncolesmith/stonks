@@ -51,7 +51,7 @@ def update_data(df):
         'sentiment':l2,
         'ticker':l3,
         'company':l4,
-        'date':datetime.datetime.now().astimezone(timezone('US/Pacific'))
+        'date':datetime.datetime.now()
     })
 
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
@@ -74,6 +74,8 @@ def main():
 
     df=load_data()
     df=update_data(df)
+
+    st.write(df.date.max())
 
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(lambda x: x.pct_change()).to_numpy()
