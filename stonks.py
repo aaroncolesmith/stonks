@@ -4,6 +4,8 @@ import plotly_express as px
 import requests
 import datetime
 from bs4 import BeautifulSoup
+from pytz import timezone
+import pytz
 
 st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
 
@@ -49,7 +51,7 @@ def update_data(df):
         'sentiment':l2,
         'ticker':l3,
         'company':l4,
-        'date':datetime.datetime.now()
+        'date':datetime.datetime.now().astimezone(timezone('US/Pacific'))
     })
 
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
