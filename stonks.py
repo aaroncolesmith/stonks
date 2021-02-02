@@ -76,6 +76,7 @@ def update_data(df):
 
 def main():
     st.title('Stonks!!')
+    st.write('Scraping data from [https://stocks.comment.ai/] to see how sentiment from WSB trends over time')
 
     df=load_data()
     df=update_data(df)
@@ -124,7 +125,7 @@ def main():
               y='pos_pct_chg',
               color='ticker',
                   title='WSB Positive Sentiment Pct Change Over Time')
-    fig.update_traces(mode='lines',
+    fig.update_traces(mode='markers',
                           marker=dict(size=8,
                                       line=dict(width=1,
                                                 color='DarkSlateGrey')))
