@@ -74,7 +74,7 @@ def update_data(df):
 
 
 def main():
-    st.title('Stonks!')
+    st.title('Stonks!!')
 
     df=load_data()
     df=update_data(df)
