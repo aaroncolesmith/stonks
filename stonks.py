@@ -68,6 +68,8 @@ def update_data(df):
 
     df['date']=pd.to_datetime(df['date'].astype('str')[:18])
 
+    st.write(df.date.max())
+
     # df['date'] = pd.to_datetime(df['date'],utc=True)
 
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
@@ -75,7 +77,7 @@ def update_data(df):
          lambda x: x.pct_change()).to_numpy()
 
 
-    df=df.loc[df.date < pd.to_datetime(datetime.datetime.now())]
+    # df=df.loc[df.date < pd.to_datetime(datetime.datetime.now())]
     return df
 
 
