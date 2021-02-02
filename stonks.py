@@ -13,7 +13,7 @@ pio.templates.default = "simple_white"
 st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
 
 def load_data():
-    df = pd.read_csv('./stonks_data.csv')
+    df = pd.read_csv('./data.csv')
     df['occurences']=pd.to_numeric(df['occurences'])
     df['positive']=pd.to_numeric(df['positive'])
     df['negative']=pd.to_numeric(df['negative'])
