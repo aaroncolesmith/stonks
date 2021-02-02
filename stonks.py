@@ -77,9 +77,11 @@ def update_data(df):
 def main():
     st.title('Stonks!!')
     st.markdown('Scraping data from [https://stocks.comment.ai/](https://stocks.comment.ai/) to see how sentiment from WSB trends over time')
-
+    st.write(df.index.size)
     df=load_data()
+    st.write(df.index.size)
     df=update_data(df)
+    st.write(df.index.size)
 
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(lambda x: x.pct_change()).to_numpy()
