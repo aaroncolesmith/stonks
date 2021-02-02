@@ -70,6 +70,7 @@ def update_data(df):
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
          lambda x: x.pct_change()).to_numpy()
 
+    df['date'] = pd.to_datetime(df.date).dt.tz_localize(None)
     return df
 
 
