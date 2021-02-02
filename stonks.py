@@ -68,13 +68,13 @@ def update_data(df):
 
     st.write(d.dtypes)
 
-    st.write(df.date.max())
+    # st.write(df.date.max())
 
     # df['date'] = pd.to_datetime(df['date'],utc=True)
     df['date']=pd.to_datetime(df['date'].astype('str').str[:19])
 
     st.write(d.dtypes)
-    
+
     df = df.sort_values(['ticker', 'date']).reset_index(drop=True)
     df['pos_pct_chg'] = df.groupby('ticker', sort=False)['positive'].apply(
          lambda x: x.pct_change()).to_numpy()
