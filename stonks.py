@@ -57,6 +57,8 @@ def update_data(df):
     d=pd.merge(d,d.sentiment.str.split(expand=True),left_index=True,right_index=True)
     d.columns = ['occurences','sentiment','ticker','company','date','positive','negative','neutral']
 
+    st.write(d.head(10))
+
     df = pd.concat([df,d])
     df['occurences']=pd.to_numeric(df['occurences'])
     df['positive']=pd.to_numeric(df['positive'])
