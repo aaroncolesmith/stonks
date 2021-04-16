@@ -22382,3 +22382,1757 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 2   1   0 ,CARE,Carter Bankshares Inc. Common Stock,2021-04-16 12:12:23,2,1,0,1.0
 3, 3   0   0 ,GOGO,Gogo Inc. Common Stock,2021-04-16 12:12:23,3,0,0,inf
 3, 1   0   2 ,MAX,MediaAlpha Inc. Class A Common Stock,2021-04-16 12:12:23,1,0,2,-0.6666666666666667
+1856, 277   307   1272 ,GME,GameStop Corporation Common Stock,2021-04-16 12:29:48,277,307,1272,0.018382352941176405
+587, 294   155   138 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:29:48,294,155,138,0.02083333333333326
+201, 109   42   50 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:29:48,109,42,50,0.04807692307692313
+165, 73   52   40 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:29:48,73,52,40,0.01388888888888884
+123, 72   27   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:29:48,72,27,24,-0.013698630136986356
+61, 22   22   17 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:29:48,22,22,17,0.10000000000000009
+59, 43   12   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:29:48,43,12,4,0.023809523809523725
+49, 15   11   23 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:29:48,15,11,23,0.0
+32, 12   6   14 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:29:48,12,6,14,-0.07692307692307687
+30, 17   11   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:29:48,17,11,2,-0.05555555555555558
+29, 18   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:29:48,18,5,6,0.05882352941176472
+28, 8   10   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:29:48,8,10,10,0.0
+24, 11   5   8 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:29:48,11,5,8,-0.2142857142857143
+23, 4   8   11 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:29:48,4,8,11,0.0
+23, 14   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:29:48,14,6,3,0.16666666666666674
+23, 12   7   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:29:48,12,7,4,0.0
+22, 14   2   6 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:29:48,14,2,6,-0.125
+21, 5   9   7 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:29:48,5,9,7,0.0
+19, 12   2   5 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:29:48,12,2,5,0.0
+19, 8   8   3 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:29:48,8,8,3,0.0
+18, 8   3   7 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:29:48,8,3,7,-0.11111111111111116
+18, 9   2   7 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:29:48,9,2,7,0.0
+16, 9   3   4 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:29:48,9,3,4,0.125
+16, 4   8   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:29:48,4,8,4,0.0
+15, 12   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:29:48,12,2,1,0.0
+14, 7   5   2 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:29:48,7,5,2,0.0
+14, 6   3   5 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:29:48,6,3,5,0.0
+13, 5   7   1 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:29:48,5,7,1,0.0
+12, 6   0   6 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:29:48,6,0,6,0.0
+12, 7   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:29:48,7,5,0,-0.125
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:29:48,8,3,0,0.0
+10, 2   0   8 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:29:48,2,0,8,0.0
+10, 0   4   6 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:29:48,0,4,6,
+9, 4   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:29:48,4,3,2,0.0
+8, 3   2   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:29:48,3,2,3,0.5
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:29:48,4,4,0,0.33333333333333326
+8, 6   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:29:48,6,1,1,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:29:48,2,3,3,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:29:48,1,0,7,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:29:48,5,2,1,0.0
+8, 1   6   1 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:29:48,1,6,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:29:48,6,1,1,-0.1428571428571429
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:29:48,2,0,6,0.0
+7, 7   0   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:29:48,7,0,0,0.0
+7, 2   1   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:29:48,2,1,4,1.0
+7, 2   2   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:29:48,2,2,3,-0.33333333333333337
+7, 4   3   0 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:29:48,4,3,0,0.0
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:29:48,3,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:29:48,4,2,0,0.33333333333333326
+6, 1   1   4 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:29:48,1,1,4,0.0
+6, 4   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:29:48,4,0,2,-0.19999999999999996
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:29:48,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:29:48,1,2,3,0.0
+6, 0   0   6 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:29:48,0,0,6,
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:29:48,2,4,0,0.0
+6, 2   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:29:48,2,2,2,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:29:48,4,2,0,0.0
+6, 1   2   3 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:29:48,1,2,3,0.0
+6, 2   3   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:29:48,2,3,1,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:29:48,5,1,0,0.0
+6, 4   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:29:48,4,0,2,0.0
+6, 3   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:29:48,3,2,1,-0.25
+5, 2   0   3 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:29:48,2,0,3,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:29:48,2,0,3,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:29:48,2,1,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:29:48,2,1,2,0.0
+5, 3   1   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:29:48,3,1,1,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:29:48,2,1,1,1.0
+4, 3   1   0 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:29:48,3,1,0,0.5
+4, 3   1   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:29:48,3,1,0,0.5
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:29:48,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:29:48,1,1,2,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:29:48,1,1,2,0.0
+4, 0   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:29:48,0,1,3,
+4, 1   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:29:48,1,0,3,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:29:48,3,0,1,0.0
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:29:48,1,0,3,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:29:48,3,0,1,-0.25
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:29:48,0,0,4,
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:29:48,2,1,0,-0.6
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:29:48,1,1,1,-0.5
+3, 0   0   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:29:48,0,0,3,-1.0
+3, 1   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:29:48,1,1,1,-0.75
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:29:48,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:29:48,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:29:48,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:29:48,3,0,0,0.0
+3, 2   1   0 ,FCEL,FuelCell Energy Inc. Common Stock,2021-04-16 12:29:48,2,1,0,0.0
+3, 0   1   2 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 12:29:48,0,1,2,
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 12:29:48,2,1,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:29:48,0,1,2,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:29:48,0,2,1,
+3, 0   0   3 ,FUN,Cedar Fair L.P. Common Stock,2021-04-16 12:29:48,0,0,3,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:29:48,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:29:48,1,0,2,0.0
+3, 1   2   0 ,DOW,Dow Inc. Common Stock ,2021-04-16 12:29:48,1,2,0,0.0
+3, 0   2   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 12:29:48,0,2,1,
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:29:48,0,1,2,
+3, 0   0   3 ,AHH,Armada Hoffler Properties Inc. Common Stock,2021-04-16 12:29:48,0,0,3,
+3, 1   1   1 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 12:29:48,1,1,1,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:29:48,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:29:48,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:29:48,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:29:48,2,0,1,0.0
+3, 2   0   1 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:29:48,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:29:48,0,2,1,
+3, 2   0   1 ,YETI,YETI Holdings Inc. Common Stock,2021-04-16 12:29:48,2,0,1,0.0
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:29:48,0,1,2,
+3, 1   0   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:29:48,1,0,2,0.0
+3, 1   2   0 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:29:48,1,2,0,0.0
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:29:48,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:29:48,0,1,2,
+3, 3   0   0 ,GOGO,Gogo Inc. Common Stock,2021-04-16 12:29:48,3,0,0,0.0
+1858, 277   307   1274 ,GME,GameStop Corporation Common Stock,2021-04-16 12:30:36,277,307,1274,0.0
+587, 294   155   138 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:30:36,294,155,138,0.0
+201, 109   42   50 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:30:36,109,42,50,0.0
+167, 74   52   41 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:30:36,74,52,41,0.013698630136986356
+123, 72   27   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:30:36,72,27,24,0.0
+61, 22   22   17 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:30:36,22,22,17,0.0
+59, 43   12   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:30:36,43,12,4,0.0
+49, 15   11   23 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:30:36,15,11,23,0.0
+32, 12   6   14 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:30:36,12,6,14,0.0
+30, 17   11   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:30:36,17,11,2,0.0
+29, 18   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:30:36,18,5,6,0.0
+27, 8   9   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:30:36,8,9,10,0.0
+24, 11   5   8 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:30:36,11,5,8,0.0
+23, 4   8   11 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:30:36,4,8,11,0.0
+23, 14   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:30:36,14,6,3,0.0
+23, 12   7   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:30:36,12,7,4,0.0
+21, 13   2   6 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:30:36,13,2,6,-0.0714285714285714
+21, 5   9   7 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:30:36,5,9,7,0.0
+19, 8   8   3 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:30:36,8,8,3,0.0
+18, 11   2   5 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:30:36,11,2,5,-0.08333333333333337
+18, 8   3   7 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:30:36,8,3,7,0.0
+18, 9   2   7 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:30:36,9,2,7,0.0
+16, 9   3   4 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:30:36,9,3,4,0.0
+16, 4   8   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:30:36,4,8,4,0.0
+15, 12   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:30:36,12,2,1,0.0
+14, 7   5   2 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:30:36,7,5,2,0.0
+14, 6   3   5 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:30:36,6,3,5,0.0
+13, 5   7   1 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:30:36,5,7,1,0.0
+12, 6   0   6 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:30:36,6,0,6,0.0
+12, 7   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:30:36,7,5,0,0.0
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:30:36,8,3,0,0.0
+10, 2   0   8 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:30:36,2,0,8,0.0
+10, 0   4   6 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:30:36,0,4,6,
+9, 4   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:30:36,4,3,2,0.0
+8, 3   1   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:30:36,3,1,4,0.5
+8, 3   2   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:30:36,3,2,3,0.0
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:30:36,4,4,0,0.0
+8, 6   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:30:36,6,1,1,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:30:36,2,3,3,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:30:36,1,0,7,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:30:36,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:30:36,6,1,1,0.0
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:30:36,2,0,6,0.0
+7, 7   0   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:30:36,7,0,0,0.0
+7, 2   2   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:30:36,2,2,3,0.0
+7, 1   6   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:30:36,1,6,0,0.0
+7, 4   3   0 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:30:36,4,3,0,0.0
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:30:36,3,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:30:36,4,2,0,0.0
+6, 1   1   4 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:30:36,1,1,4,0.0
+6, 4   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:30:36,4,0,2,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:30:36,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:30:36,1,2,3,0.0
+6, 0   0   6 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:30:36,0,0,6,
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:30:36,2,4,0,0.0
+6, 2   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:30:36,2,2,2,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:30:36,4,2,0,0.0
+6, 1   2   3 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:30:36,1,2,3,0.0
+6, 2   3   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:30:36,2,3,1,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:30:36,5,1,0,0.0
+6, 4   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:30:36,4,0,2,0.0
+6, 3   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:30:36,3,2,1,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:30:36,3,1,1,0.0
+5, 2   0   3 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:30:36,2,0,3,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:30:36,2,0,3,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:30:36,2,1,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:30:36,2,1,2,0.0
+5, 3   1   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:30:36,3,1,1,0.0
+4, 1   1   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:30:36,1,1,2,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:30:36,2,1,1,0.0
+4, 3   1   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:30:36,3,1,0,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:30:36,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:30:36,1,1,2,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:30:36,1,1,2,0.0
+4, 1   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:30:36,1,0,3,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:30:36,3,0,1,0.0
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:30:36,1,0,3,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:30:36,3,0,1,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:30:36,0,0,4,
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:30:36,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:30:36,1,1,1,0.0
+3, 0   0   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:30:36,0,0,3,
+3, 1   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:30:36,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:30:36,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:30:36,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:30:36,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:30:36,3,0,0,0.0
+3, 2   1   0 ,FCEL,FuelCell Energy Inc. Common Stock,2021-04-16 12:30:36,2,1,0,0.0
+3, 0   1   2 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 12:30:36,0,1,2,
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 12:30:36,2,1,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:30:36,0,1,2,
+3, 0   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:30:36,0,0,3,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:30:36,0,2,1,
+3, 0   0   3 ,FUN,Cedar Fair L.P. Common Stock,2021-04-16 12:30:36,0,0,3,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:30:36,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:30:36,1,0,2,0.0
+3, 0   2   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 12:30:36,0,2,1,
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:30:36,0,1,2,
+3, 0   0   3 ,AHH,Armada Hoffler Properties Inc. Common Stock,2021-04-16 12:30:36,0,0,3,
+3, 1   1   1 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 12:30:36,1,1,1,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:30:36,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:30:36,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:30:36,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:30:36,2,0,1,0.0
+3, 2   0   1 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:30:36,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:30:36,0,2,1,
+3, 2   0   1 ,YETI,YETI Holdings Inc. Common Stock,2021-04-16 12:30:36,2,0,1,0.0
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:30:36,0,1,2,
+3, 1   2   0 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:30:36,1,2,0,0.0
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:30:36,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:30:36,0,1,2,
+3, 3   0   0 ,GOGO,Gogo Inc. Common Stock,2021-04-16 12:30:36,3,0,0,0.0
+1858, 277   307   1274 ,GME,GameStop Corporation Common Stock,2021-04-16 12:31:24,277,307,1274,0.0
+586, 293   155   138 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:31:24,293,155,138,-0.003401360544217691
+202, 110   42   50 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:31:24,110,42,50,0.00917431192660545
+168, 75   52   41 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:31:24,75,52,41,0.013513513513513598
+124, 73   27   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:31:24,73,27,24,0.01388888888888884
+61, 22   22   17 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:31:24,22,22,17,0.0
+59, 43   12   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:31:24,43,12,4,0.0
+49, 15   11   23 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:31:24,15,11,23,0.0
+32, 12   6   14 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:31:24,12,6,14,0.0
+29, 18   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:31:24,18,5,6,0.0
+29, 17   10   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:31:24,17,10,2,0.0
+27, 8   9   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:31:24,8,9,10,0.0
+24, 11   5   8 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:31:24,11,5,8,0.0
+23, 4   8   11 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:31:24,4,8,11,0.0
+23, 14   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:31:24,14,6,3,0.0
+23, 12   7   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:31:24,12,7,4,0.0
+22, 5   9   8 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:31:24,5,9,8,0.0
+21, 13   2   6 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:31:24,13,2,6,0.0
+19, 8   8   3 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:31:24,8,8,3,0.0
+18, 11   2   5 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:31:24,11,2,5,0.0
+18, 8   3   7 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:31:24,8,3,7,0.0
+18, 9   2   7 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:31:24,9,2,7,0.0
+16, 9   3   4 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:31:24,9,3,4,0.0
+16, 4   8   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:31:24,4,8,4,0.0
+15, 12   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:31:24,12,2,1,0.0
+14, 7   5   2 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:31:24,7,5,2,0.0
+14, 6   3   5 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:31:24,6,3,5,0.0
+13, 5   7   1 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:31:24,5,7,1,0.0
+12, 7   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:31:24,7,5,0,0.0
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:31:24,8,3,0,0.0
+11, 5   0   6 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:31:24,5,0,6,-0.16666666666666663
+10, 2   0   8 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:31:24,2,0,8,0.0
+10, 0   4   6 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:31:24,0,4,6,
+9, 4   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:31:24,4,3,2,0.0
+8, 3   1   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:31:24,3,1,4,0.0
+8, 3   2   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:31:24,3,2,3,0.0
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:31:24,4,4,0,0.0
+8, 6   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:31:24,6,1,1,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:31:24,2,3,3,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:31:24,1,0,7,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:31:24,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:31:24,6,1,1,0.0
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:31:24,2,0,6,0.0
+7, 7   0   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:31:24,7,0,0,0.0
+7, 2   2   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:31:24,2,2,3,0.0
+7, 1   6   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:31:24,1,6,0,0.0
+7, 4   3   0 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:31:24,4,3,0,0.0
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:31:24,3,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:31:24,4,2,0,0.0
+6, 1   1   4 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:31:24,1,1,4,0.0
+6, 4   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:31:24,4,0,2,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:31:24,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:31:24,1,2,3,0.0
+6, 0   0   6 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:31:24,0,0,6,
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:31:24,2,4,0,0.0
+6, 2   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:31:24,2,2,2,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:31:24,4,2,0,0.0
+6, 1   2   3 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:31:24,1,2,3,0.0
+6, 2   3   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:31:24,2,3,1,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:31:24,5,1,0,0.0
+6, 3   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:31:24,3,2,1,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:31:24,3,1,1,0.0
+5, 2   0   3 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:31:24,2,0,3,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:31:24,2,0,3,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:31:24,2,1,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:31:24,2,1,2,0.0
+5, 3   1   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:31:24,3,1,1,0.0
+5, 3   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:31:24,3,0,2,-0.25
+4, 1   1   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:31:24,1,1,2,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:31:24,2,1,1,0.0
+4, 3   1   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:31:24,3,1,0,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:31:24,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:31:24,1,1,2,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:31:24,1,1,2,0.0
+4, 1   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:31:24,1,0,3,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:31:24,3,0,1,0.0
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:31:24,1,0,3,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:31:24,3,0,1,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:31:24,0,0,4,
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:31:24,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:31:24,1,1,1,0.0
+3, 0   0   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:31:24,0,0,3,
+3, 1   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:31:24,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:31:24,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:31:24,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:31:24,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:31:24,3,0,0,0.0
+3, 2   1   0 ,FCEL,FuelCell Energy Inc. Common Stock,2021-04-16 12:31:24,2,1,0,0.0
+3, 0   1   2 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 12:31:24,0,1,2,
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 12:31:24,2,1,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:31:24,0,1,2,
+3, 0   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:31:24,0,0,3,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:31:24,0,2,1,
+3, 0   0   3 ,FUN,Cedar Fair L.P. Common Stock,2021-04-16 12:31:24,0,0,3,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:31:24,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:31:24,1,0,2,0.0
+3, 0   2   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 12:31:24,0,2,1,
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:31:24,0,1,2,
+3, 0   0   3 ,AHH,Armada Hoffler Properties Inc. Common Stock,2021-04-16 12:31:24,0,0,3,
+3, 1   1   1 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 12:31:24,1,1,1,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:31:24,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:31:24,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:31:24,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:31:24,2,0,1,0.0
+3, 2   0   1 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:31:24,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:31:24,0,2,1,
+3, 2   0   1 ,YETI,YETI Holdings Inc. Common Stock,2021-04-16 12:31:24,2,0,1,0.0
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:31:24,0,1,2,
+3, 1   2   0 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:31:24,1,2,0,0.0
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:31:24,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:31:24,0,1,2,
+3, 3   0   0 ,GOGO,Gogo Inc. Common Stock,2021-04-16 12:31:24,3,0,0,0.0
+1864, 280   307   1277 ,GME,GameStop Corporation Common Stock,2021-04-16 12:43:09,280,307,1277,0.010830324909747224
+577, 291   154   132 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:43:09,291,154,132,-0.0068259385665528916
+219, 121   43   55 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:43:09,121,43,55,0.10000000000000009
+179, 78   59   42 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:43:09,78,59,42,0.040000000000000036
+122, 74   24   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:43:09,74,24,24,0.013698630136986356
+60, 23   22   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:43:09,23,22,15,0.045454545454545414
+54, 41   9   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:43:09,41,9,4,-0.046511627906976716
+47, 14   11   22 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:43:09,14,11,22,-0.06666666666666665
+31, 12   6   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:43:09,12,6,13,0.0
+27, 17   4   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:43:09,17,4,6,-0.05555555555555558
+26, 17   7   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:43:09,17,7,2,0.0
+26, 8   8   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:43:09,8,8,10,0.0
+23, 14   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:43:09,14,6,3,0.0
+22, 10   8   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:43:09,10,8,4,-0.16666666666666663
+22, 4   8   10 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:43:09,4,8,10,0.0
+22, 9   5   8 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:43:09,9,5,8,-0.18181818181818177
+20, 9   3   8 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:43:09,9,3,8,0.125
+19, 4   8   7 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:43:09,4,8,7,-0.19999999999999996
+18, 13   2   3 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:43:09,13,2,3,0.18181818181818188
+18, 7   8   3 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:43:09,7,8,3,-0.125
+16, 13   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:43:09,13,2,1,0.08333333333333326
+16, 8   2   6 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:43:09,8,2,6,-0.11111111111111116
+15, 9   1   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:43:09,9,1,5,-0.3076923076923077
+15, 3   8   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:43:09,3,8,4,-0.25
+14, 10   3   1 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:43:09,10,3,1,0.11111111111111116
+14, 5   7   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:43:09,5,7,2,0.0
+13, 7   2   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:43:09,7,2,4,0.16666666666666674
+12, 4   0   8 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:43:09,4,0,8,-0.19999999999999996
+12, 7   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:43:09,7,5,0,0.0
+12, 6   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:43:09,6,5,1,-0.1428571428571429
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:43:09,8,3,0,0.0
+9, 3   2   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:43:09,3,2,4,0.0
+9, 5   3   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:43:09,5,3,1,0.25
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:43:09,1,0,7,0.0
+8, 7   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:43:09,7,1,0,0.0
+8, 0   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 12:43:09,0,0,8,-1.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:43:09,1,7,0,0.0
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:43:09,4,4,0,0.0
+8, 3   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:43:09,3,3,2,-0.25
+8, 2   0   6 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:43:09,2,0,6,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:43:09,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:43:09,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:43:09,6,1,1,0.0
+8, 0   4   4 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:43:09,0,4,4,
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:43:09,2,0,6,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:43:09,3,1,3,0.0
+7, 5   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:43:09,5,1,1,-0.16666666666666663
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:43:09,3,0,4,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:43:09,2,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:43:09,4,2,0,0.0
+6, 4   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:43:09,4,0,2,0.0
+6, 2   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:43:09,2,1,3,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:43:09,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:43:09,1,2,3,0.0
+6, 0   0   6 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:43:09,0,0,6,
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:43:09,2,4,0,0.0
+6, 2   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:43:09,2,2,2,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:43:09,4,2,0,0.0
+6, 1   2   3 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:43:09,1,2,3,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:43:09,5,1,0,0.0
+6, 3   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:43:09,3,2,1,0.0
+5, 3   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:43:09,3,2,0,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:43:09,3,1,1,0.0
+5, 2   0   3 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:43:09,2,0,3,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:43:09,2,1,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:43:09,2,1,2,0.0
+5, 3   1   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:43:09,3,1,1,0.0
+5, 2   2   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:43:09,2,2,1,0.0
+5, 3   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:43:09,3,0,2,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:43:09,1,0,3,inf
+4, 2   2   0 ,GLD,SPDR Gold Trust,2021-04-16 12:43:09,2,2,0,0.0
+4, 2   2   0 ,FCEL,FuelCell Energy Inc. Common Stock,2021-04-16 12:43:09,2,2,0,0.0
+4, 0   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:43:09,0,1,3,
+4, 1   1   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:43:09,1,1,2,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:43:09,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:43:09,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:43:09,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:43:09,1,0,3,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:43:09,1,1,2,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:43:09,3,0,1,0.0
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:43:09,1,0,3,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:43:09,3,0,1,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:43:09,0,0,4,
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 12:43:09,1,0,2,-0.6666666666666667
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:43:09,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:43:09,1,1,1,0.0
+3, 1   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:43:09,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:43:09,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:43:09,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:43:09,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:43:09,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:43:09,0,1,2,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:43:09,0,2,1,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:43:09,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:43:09,1,0,2,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:43:09,0,0,3,-1.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:43:09,0,1,2,
+3, 1   1   1 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 12:43:09,1,1,1,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:43:09,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:43:09,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:43:09,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:43:09,2,0,1,0.0
+3, 2   0   1 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:43:09,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:43:09,0,2,1,
+3, 2   0   1 ,YETI,YETI Holdings Inc. Common Stock,2021-04-16 12:43:09,2,0,1,0.0
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:43:09,0,1,2,
+3, 1   2   0 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:43:09,1,2,0,0.0
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:43:09,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:43:09,0,1,2,
+1851, 278   303   1270 ,GME,GameStop Corporation Common Stock,2021-04-16 12:48:26,278,303,1270,-0.0071428571428571175
+566, 287   151   128 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:48:26,287,151,128,-0.013745704467353903
+224, 124   44   56 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:48:26,124,44,56,0.024793388429751984
+181, 79   61   41 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:48:26,79,61,41,0.012820512820512775
+123, 74   24   25 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:48:26,74,24,25,0.0
+60, 23   22   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:48:26,23,22,15,0.0
+57, 44   9   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:48:26,44,9,4,0.07317073170731714
+46, 14   11   21 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:48:26,14,11,21,0.0
+31, 12   6   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:48:26,12,6,13,0.0
+27, 17   4   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:48:26,17,4,6,0.0
+26, 17   7   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:48:26,17,7,2,0.0
+25, 7   8   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:48:26,7,8,10,-0.125
+22, 13   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:48:26,13,6,3,-0.0714285714285714
+21, 4   7   10 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:48:26,4,7,10,0.0
+21, 9   5   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:48:26,9,5,7,0.0
+20, 9   7   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:48:26,9,7,4,-0.09999999999999998
+18, 4   8   6 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:48:26,4,8,6,0.0
+18, 7   3   8 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:48:26,7,3,8,-0.2222222222222222
+17, 7   8   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:48:26,7,8,2,0.0
+16, 3   9   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:48:26,3,9,4,0.0
+16, 13   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:48:26,13,2,1,0.0
+16, 12   2   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:48:26,12,2,2,-0.07692307692307687
+15, 9   1   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:48:26,9,1,5,0.0
+14, 4   0   10 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:48:26,4,0,10,0.0
+14, 7   2   5 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:48:26,7,2,5,-0.125
+13, 4   7   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:48:26,4,7,2,-0.19999999999999996
+12, 9   2   1 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:48:26,9,2,1,-0.09999999999999998
+12, 6   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:48:26,6,5,1,0.0
+11, 6   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:48:26,6,1,4,-0.1428571428571429
+11, 6   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:48:26,6,5,0,-0.1428571428571429
+10, 1   0   9 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 12:48:26,1,0,9,inf
+10, 7   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:48:26,7,3,0,-0.125
+9, 5   3   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:48:26,5,3,1,0.0
+9, 0   4   5 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:48:26,0,4,5,
+9, 3   2   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:48:26,3,2,4,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:48:26,1,0,7,0.0
+8, 7   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:48:26,7,1,0,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:48:26,1,7,0,0.0
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:48:26,4,4,0,0.0
+8, 3   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:48:26,3,3,2,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:48:26,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:48:26,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:48:26,6,1,1,0.0
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:48:26,2,0,6,0.0
+7, 1   0   6 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:48:26,1,0,6,-0.5
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:48:26,3,1,3,0.0
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:48:26,3,0,4,0.0
+6, 2   0   4 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:48:26,2,0,4,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:48:26,2,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:48:26,4,2,0,0.0
+6, 4   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:48:26,4,1,1,-0.19999999999999996
+6, 2   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:48:26,2,1,3,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:48:26,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:48:26,1,2,3,0.0
+6, 0   0   6 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:48:26,0,0,6,
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:48:26,2,4,0,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:48:26,4,2,0,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:48:26,5,1,0,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:48:26,4,0,1,0.33333333333333326
+5, 3   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:48:26,3,2,0,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:48:26,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:48:26,2,1,2,0.0
+5, 4   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:48:26,4,0,1,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:48:26,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:48:26,1,2,2,-0.5
+5, 3   1   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:48:26,3,1,1,0.0
+5, 2   2   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:48:26,2,2,1,0.0
+5, 2   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:48:26,2,2,1,-0.33333333333333337
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:48:26,2,1,1,1.0
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:48:26,1,2,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:48:26,1,0,3,0.0
+4, 2   2   0 ,GLD,SPDR Gold Trust,2021-04-16 12:48:26,2,2,0,0.0
+4, 0   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:48:26,0,1,3,
+4, 1   1   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:48:26,1,1,2,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:48:26,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:48:26,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:48:26,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:48:26,1,0,3,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:48:26,1,1,2,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:48:26,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:48:26,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:48:26,2,0,2,-0.33333333333333337
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:48:26,1,0,3,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:48:26,0,0,4,
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 12:48:26,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 12:48:26,2,0,1,1.0
+3, 1   2   0 ,FCEL,FuelCell Energy Inc. Common Stock,2021-04-16 12:48:26,1,2,0,-0.5
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 12:48:26,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:48:26,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:48:26,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:48:26,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:48:26,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:48:26,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:48:26,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:48:26,0,1,2,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:48:26,0,2,1,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:48:26,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:48:26,1,0,2,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:48:26,0,0,3,
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:48:26,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:48:26,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:48:26,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:48:26,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:48:26,2,0,1,0.0
+3, 2   0   1 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:48:26,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:48:26,0,2,1,
+3, 2   0   1 ,YETI,YETI Holdings Inc. Common Stock,2021-04-16 12:48:26,2,0,1,0.0
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:48:26,0,1,2,
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:48:26,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:48:26,0,1,2,
+1829, 275   299   1255 ,GME,GameStop Corporation Common Stock,2021-04-16 12:53:43,275,299,1255,-0.010791366906474864
+559, 283   149   127 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 12:53:43,283,149,127,-0.013937282229965153
+221, 123   43   55 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 12:53:43,123,43,55,-0.008064516129032251
+181, 80   59   42 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 12:53:43,80,59,42,0.012658227848101333
+124, 75   24   25 ,TSLA,Tesla Inc. Common Stock,2021-04-16 12:53:43,75,24,25,0.013513513513513598
+61, 23   23   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 12:53:43,23,23,15,0.0
+59, 45   10   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 12:53:43,45,10,4,0.022727272727272707
+46, 14   11   21 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 12:53:43,14,11,21,0.0
+32, 13   6   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 12:53:43,13,6,13,0.08333333333333326
+27, 18   7   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 12:53:43,18,7,2,0.05882352941176472
+26, 16   4   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 12:53:43,16,4,6,-0.05882352941176472
+25, 7   8   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 12:53:43,7,8,10,0.0
+22, 13   6   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 12:53:43,13,6,3,0.0
+21, 4   7   10 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 12:53:43,4,7,10,0.0
+20, 9   4   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 12:53:43,9,4,7,0.0
+19, 8   7   4 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 12:53:43,8,7,4,-0.11111111111111116
+18, 7   9   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 12:53:43,7,9,2,0.0
+18, 4   8   6 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 12:53:43,4,8,6,0.0
+18, 7   3   8 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 12:53:43,7,3,8,0.0
+16, 3   9   4 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 12:53:43,3,9,4,0.0
+16, 13   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 12:53:43,13,2,1,0.0
+15, 5   0   10 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 12:53:43,5,0,10,0.25
+15, 11   2   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 12:53:43,11,2,2,-0.08333333333333337
+13, 4   7   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 12:53:43,4,7,2,0.0
+13, 7   1   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 12:53:43,7,1,5,-0.2222222222222222
+13, 6   2   5 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 12:53:43,6,2,5,-0.1428571428571429
+12, 6   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 12:53:43,6,5,1,0.0
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 12:53:43,8,3,0,0.1428571428571428
+11, 5   2   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 12:53:43,5,2,4,0.6666666666666667
+11, 9   2   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 12:53:43,9,2,0,0.0
+11, 6   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 12:53:43,6,1,4,0.0
+11, 6   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 12:53:43,6,5,0,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 12:53:43,1,0,8,0.0
+9, 5   3   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 12:53:43,5,3,1,0.0
+8, 0   4   4 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 12:53:43,0,4,4,
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 12:53:43,1,0,7,0.0
+8, 7   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 12:53:43,7,1,0,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 12:53:43,1,7,0,0.0
+8, 4   4   0 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 12:53:43,4,4,0,0.0
+8, 3   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 12:53:43,3,3,2,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 12:53:43,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 12:53:43,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 12:53:43,6,1,1,0.0
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 12:53:43,2,0,6,0.0
+7, 2   1   4 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 12:53:43,2,1,4,0.0
+7, 0   0   7 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 12:53:43,0,0,7,
+7, 1   0   6 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 12:53:43,1,0,6,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 12:53:43,3,1,3,0.0
+7, 3   0   4 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 12:53:43,3,0,4,0.0
+6, 3   2   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 12:53:43,3,2,1,0.5
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 12:53:43,2,0,4,0.0
+6, 4   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 12:53:43,4,2,0,0.0
+6, 2   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 12:53:43,2,1,3,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 12:53:43,1,2,3,0.0
+6, 1   2   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 12:53:43,1,2,3,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 12:53:43,2,4,0,0.0
+6, 4   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 12:53:43,4,2,0,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 12:53:43,5,1,0,0.0
+5, 1   2   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 12:53:43,1,2,2,0.0
+5, 3   0   2 ,AN,AutoNation Inc. Common Stock,2021-04-16 12:53:43,3,0,2,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 12:53:43,4,0,1,0.0
+5, 3   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 12:53:43,3,2,0,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 12:53:43,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 12:53:43,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 12:53:43,3,1,1,-0.25
+5, 4   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 12:53:43,4,0,1,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 12:53:43,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 12:53:43,1,2,2,0.0
+5, 2   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 12:53:43,2,2,1,0.0
+4, 0   0   4 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 12:53:43,0,0,4,
+4, 2   0   2 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 12:53:43,2,0,2,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 12:53:43,2,1,1,0.0
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 12:53:43,1,2,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 12:53:43,1,0,3,0.0
+4, 2   2   0 ,GLD,SPDR Gold Trust,2021-04-16 12:53:43,2,2,0,0.0
+4, 0   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 12:53:43,0,1,3,
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 12:53:43,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 12:53:43,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 12:53:43,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 12:53:43,1,0,3,0.0
+4, 1   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 12:53:43,1,1,2,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 12:53:43,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 12:53:43,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 12:53:43,2,0,2,0.0
+4, 1   0   3 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 12:53:43,1,0,3,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 12:53:43,0,0,4,
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 12:53:43,1,1,1,-0.5
+3, 2   0   1 ,NOK,Nokia Corporation Sponsored American Depositary Shares,2021-04-16 12:53:43,2,0,1,1.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 12:53:43,1,1,1,inf
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 12:53:43,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 12:53:43,2,0,1,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 12:53:43,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 12:53:43,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 12:53:43,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 12:53:43,1,0,2,0.0
+3, 0   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 12:53:43,0,3,0,
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 12:53:43,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 12:53:43,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 12:53:43,0,1,2,
+3, 0   2   1 ,HOPE,Hope Bancorp Inc. Common Stock,2021-04-16 12:53:43,0,2,1,
+3, 1   0   2 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-16 12:53:43,1,0,2,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 12:53:43,1,0,2,0.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 12:53:43,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 12:53:43,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 12:53:43,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 12:53:43,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 12:53:43,2,0,1,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 12:53:43,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 12:53:43,0,1,2,
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 12:53:43,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 12:53:43,0,1,2,
+1758, 268   288   1202 ,GME,GameStop Corporation Common Stock,2021-04-16 13:04:42,268,288,1202,-0.025454545454545507
+514, 253   144   117 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:04:42,253,144,117,-0.10600706713780916
+230, 126   44   60 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:04:42,126,44,60,0.024390243902439046
+186, 83   59   44 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:04:42,83,59,44,0.03750000000000009
+124, 74   26   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:04:42,74,26,24,-0.013333333333333308
+58, 20   23   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:04:42,20,23,15,-0.13043478260869568
+57, 43   10   4 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:04:42,43,10,4,-0.0444444444444444
+45, 13   11   21 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:04:42,13,11,21,-0.0714285714285714
+32, 14   5   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:04:42,14,5,13,0.07692307692307687
+28, 19   7   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:04:42,19,7,2,0.05555555555555558
+23, 14   4   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:04:42,14,4,5,-0.125
+23, 6   7   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:04:42,6,7,10,-0.1428571428571429
+22, 8   7   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:04:42,8,7,7,-0.11111111111111116
+20, 7   4   9 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:04:42,7,4,9,0.0
+20, 12   6   2 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:04:42,12,6,2,-0.07692307692307687
+18, 8   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:04:42,8,7,3,0.0
+18, 7   9   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:04:42,7,9,2,0.0
+17, 4   8   5 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:04:42,4,8,5,0.0
+17, 4   6   7 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:04:42,4,6,7,0.0
+16, 4   0   12 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:04:42,4,0,12,-0.19999999999999996
+16, 12   2   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:04:42,12,2,2,0.09090909090909083
+16, 13   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:04:42,13,2,1,0.0
+15, 3   9   3 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:04:42,3,9,3,0.0
+12, 4   6   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:04:42,4,6,2,0.0
+12, 6   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:04:42,6,5,1,0.0
+11, 6   0   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:04:42,6,0,5,-0.1428571428571429
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:04:42,8,3,0,0.0
+11, 6   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:04:42,6,1,4,0.0
+11, 6   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:04:42,6,5,0,0.0
+11, 5   2   4 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:04:42,5,2,4,-0.16666666666666663
+10, 5   2   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:04:42,5,2,3,0.0
+9, 0   5   4 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:04:42,0,5,4,
+9, 4   4   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:04:42,4,4,1,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:04:42,1,0,8,0.0
+9, 5   3   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:04:42,5,3,1,0.0
+9, 7   2   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:04:42,7,2,0,-0.2222222222222222
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:04:42,0,0,8,
+8, 2   0   6 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:04:42,2,0,6,1.0
+8, 3   0   5 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:04:42,3,0,5,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:04:42,1,0,7,0.0
+8, 7   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:04:42,7,1,0,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:04:42,1,7,0,0.0
+8, 3   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:04:42,3,3,2,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:04:42,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 13:04:42,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:04:42,6,1,1,0.0
+8, 2   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:04:42,2,0,6,0.0
+7, 5   2   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:04:42,5,2,0,0.25
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:04:42,1,1,5,-0.5
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:04:42,3,1,3,0.0
+6, 3   2   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:04:42,3,2,1,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:04:42,2,0,4,0.0
+6, 2   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:04:42,2,1,3,0.0
+6, 1   2   3 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:04:42,1,2,3,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:04:42,2,4,0,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:04:42,5,1,0,0.0
+5, 2   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:04:42,2,1,2,1.0
+5, 1   2   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:04:42,1,2,2,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:04:42,4,0,1,0.0
+5, 3   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:04:42,3,2,0,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:04:42,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:04:42,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:04:42,3,1,1,0.0
+5, 4   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:04:42,4,0,1,0.0
+5, 1   1   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:04:42,1,1,3,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:04:42,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:04:42,1,2,2,0.0
+5, 4   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:04:42,4,1,0,0.0
+5, 2   2   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 13:04:42,2,2,1,0.0
+4, 0   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:04:42,0,4,0,
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:04:42,1,0,3,0.0
+4, 0   0   4 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:04:42,0,0,4,
+4, 2   0   2 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:04:42,2,0,2,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:04:42,2,1,1,0.0
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 13:04:42,1,2,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:04:42,1,0,3,0.0
+4, 2   2   0 ,GLD,SPDR Gold Trust,2021-04-16 13:04:42,2,2,0,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:04:42,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:04:42,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:04:42,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:04:42,1,0,3,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:04:42,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 13:04:42,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:04:42,2,0,2,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 13:04:42,0,0,4,
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:04:42,0,2,1,-1.0
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:04:42,1,0,2,-0.6666666666666667
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:04:42,0,0,3,-1.0
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:04:42,1,1,1,0.0
+3, 2   0   1 ,NOK,Nokia Corporation Sponsored American Depositary Shares,2021-04-16 13:04:42,2,0,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:04:42,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:04:42,2,0,1,-0.33333333333333337
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:04:42,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:04:42,2,0,1,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:04:42,1,0,2,0.0
+3, 0   1   2 ,HES,Hess Corporation Common Stock,2021-04-16 13:04:42,0,1,2,
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:04:42,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:04:42,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:04:42,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:04:42,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:04:42,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:04:42,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:04:42,1,0,2,0.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 13:04:42,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:04:42,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:04:42,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:04:42,1,2,0,0.0
+3, 2   0   1 ,OI,O-I Glass Inc. Common Stock,2021-04-16 13:04:42,2,0,1,0.0
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 13:04:42,1,0,2,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:04:42,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:04:42,0,1,2,
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-04-16 13:04:42,1,1,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:04:42,0,1,2,
+1703, 261   278   1164 ,GME,GameStop Corporation Common Stock,2021-04-16 13:15:00,261,278,1164,-0.026119402985074647
+480, 234   135   111 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:15:00,234,135,111,-0.07509881422924902
+233, 129   44   60 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:15:00,129,44,60,0.023809523809523725
+188, 83   60   45 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:15:00,83,60,45,0.0
+121, 72   25   24 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:15:00,72,25,24,-0.027027027027026973
+55, 43   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:15:00,43,9,3,0.0
+55, 19   21   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:15:00,19,21,15,-0.050000000000000044
+44, 13   11   20 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:15:00,13,11,20,0.0
+33, 16   4   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:15:00,16,4,13,0.1428571428571428
+26, 18   6   2 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:15:00,18,6,2,-0.052631578947368474
+25, 15   4   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:15:00,15,4,6,0.0714285714285714
+25, 6   8   11 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:15:00,6,8,11,0.0
+22, 8   7   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:15:00,8,7,7,0.0
+20, 6   4   10 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:15:00,6,4,10,-0.1428571428571429
+18, 4   9   5 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:15:00,4,9,5,0.0
+18, 4   0   14 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:15:00,4,0,14,0.0
+18, 8   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:15:00,8,7,3,0.0
+18, 7   9   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:15:00,7,9,2,0.0
+17, 11   4   2 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:15:00,11,4,2,-0.08333333333333337
+16, 3   10   3 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:15:00,3,10,3,0.0
+15, 11   2   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:15:00,11,2,2,-0.08333333333333337
+15, 12   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:15:00,12,2,1,-0.07692307692307687
+15, 3   6   6 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:15:00,3,6,6,-0.25
+12, 4   6   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:15:00,4,6,2,0.0
+12, 6   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:15:00,6,5,1,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:15:00,5,3,3,0.0
+11, 6   0   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:15:00,6,0,5,0.0
+11, 8   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:15:00,8,3,0,0.0
+11, 6   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:15:00,6,1,4,0.0
+11, 6   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:15:00,6,5,0,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:15:00,1,0,8,0.0
+9, 7   2   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:15:00,7,2,0,0.0
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:15:00,3,0,5,0.5
+8, 3   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:15:00,3,2,3,-0.4
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:15:00,0,0,8,
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:15:00,0,5,3,
+8, 3   0   5 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:15:00,3,0,5,0.0
+8, 5   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:15:00,5,2,1,0.0
+8, 1   0   7 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:15:00,1,0,7,0.0
+8, 7   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:15:00,7,1,0,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:15:00,1,7,0,0.0
+8, 3   3   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:15:00,3,3,2,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:15:00,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 13:15:00,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:15:00,6,1,1,0.0
+7, 3   3   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:15:00,3,3,1,-0.25
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:15:00,1,1,5,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:15:00,3,1,3,0.0
+7, 1   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:15:00,1,0,6,-0.5
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:15:00,3,1,2,0.5
+6, 2   1   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:15:00,2,1,3,1.0
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:15:00,5,1,0,0.0
+6, 3   2   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:15:00,3,2,1,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:15:00,2,0,4,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:15:00,2,4,0,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:15:00,5,1,0,0.0
+5, 1   2   2 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:15:00,1,2,2,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:15:00,4,0,1,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:15:00,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:15:00,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:15:00,3,1,1,0.0
+5, 4   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:15:00,4,0,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:15:00,1,1,3,-0.5
+5, 1   2   2 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:15:00,1,2,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:15:00,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:15:00,1,2,2,0.0
+5, 4   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:15:00,4,1,0,0.0
+4, 0   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:15:00,0,4,0,
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:15:00,1,0,3,0.0
+4, 0   0   4 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:15:00,0,0,4,
+4, 2   0   2 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:15:00,2,0,2,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:15:00,2,1,1,0.0
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 13:15:00,1,2,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:15:00,1,0,3,0.0
+4, 2   2   0 ,GLD,SPDR Gold Trust,2021-04-16 13:15:00,2,2,0,0.0
+4, 2   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:15:00,2,2,0,-0.33333333333333337
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:15:00,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:15:00,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:15:00,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:15:00,1,0,3,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:15:00,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 13:15:00,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:15:00,2,0,2,0.0
+4, 0   0   4 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-04-16 13:15:00,0,0,4,
+4, 2   1   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 13:15:00,2,1,1,0.0
+3, 1   0   2 ,OI,O-I Glass Inc. Common Stock,2021-04-16 13:15:00,1,0,2,-0.5
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 13:15:00,1,0,2,-0.5
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 13:15:00,3,0,0,-0.25
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:15:00,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:15:00,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:15:00,0,0,3,
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:15:00,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:15:00,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:15:00,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:15:00,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:15:00,2,0,1,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:15:00,1,0,2,0.0
+3, 0   1   2 ,HES,Hess Corporation Common Stock,2021-04-16 13:15:00,0,1,2,
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:15:00,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:15:00,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:15:00,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:15:00,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:15:00,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:15:00,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:15:00,1,0,2,0.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 13:15:00,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:15:00,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:15:00,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:15:00,1,2,0,0.0
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 13:15:00,1,0,2,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:15:00,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:15:00,0,1,2,
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:15:00,0,1,2,
+1661, 257   271   1133 ,GME,GameStop Corporation Common Stock,2021-04-16 13:25:19,257,271,1133,-0.01532567049808431
+446, 218   124   104 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:25:19,218,124,104,-0.06837606837606836
+235, 129   45   61 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:25:19,129,45,61,0.0
+181, 82   59   40 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:25:19,82,59,40,-0.012048192771084376
+118, 70   25   23 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:25:19,70,25,23,-0.02777777777777779
+54, 42   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:25:19,42,9,3,-0.023255813953488413
+54, 18   21   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:25:19,18,21,15,-0.052631578947368474
+44, 13   11   20 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:25:19,13,11,20,0.0
+35, 16   5   14 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:25:19,16,5,14,0.0
+26, 15   6   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:25:19,15,6,5,0.0
+25, 6   8   11 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:25:19,6,8,11,0.0
+25, 18   6   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:25:19,18,6,1,0.0
+20, 6   4   10 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:25:19,6,4,10,0.0
+20, 8   5   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:25:19,8,5,7,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:25:19,4,0,15,0.0
+18, 8   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:25:19,8,7,3,0.0
+17, 11   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:25:19,11,4,2,0.0
+17, 3   9   5 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:25:19,3,9,5,-0.25
+17, 6   9   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:25:19,6,9,2,-0.1428571428571429
+16, 11   3   2 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:25:19,11,3,2,0.0
+15, 3   10   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:25:19,3,10,2,0.0
+14, 11   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:25:19,11,2,1,-0.08333333333333337
+14, 3   5   6 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:25:19,3,5,6,0.0
+11, 6   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:25:19,6,1,4,0.0
+11, 7   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:25:19,7,4,0,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:25:19,5,3,3,0.0
+11, 6   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:25:19,6,5,0,0.0
+11, 5   5   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:25:19,5,5,1,-0.16666666666666663
+10, 7   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:25:19,7,3,0,-0.125
+10, 4   4   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:25:19,4,4,2,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:25:19,1,0,8,0.0
+9, 4   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:25:19,4,1,4,-0.33333333333333337
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:25:19,3,0,5,0.0
+8, 3   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:25:19,3,2,3,0.0
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:25:19,0,0,8,
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:25:19,0,5,3,
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:25:19,1,7,0,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:25:19,2,3,3,0.0
+8, 5   2   1 ,GE,General Electric Company Common Stock,2021-04-16 13:25:19,5,2,1,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:25:19,6,1,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 13:25:19,3,1,3,inf
+7, 3   3   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:25:19,3,3,1,0.0
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:25:19,1,1,5,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:25:19,4,2,1,-0.19999999999999996
+7, 6   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:25:19,6,1,0,-0.1428571428571429
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:25:19,3,1,3,0.0
+7, 3   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:25:19,3,2,2,0.0
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:25:19,3,1,2,0.0
+6, 2   1   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:25:19,2,1,3,0.0
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:25:19,5,1,0,0.0
+6, 3   0   3 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:25:19,3,0,3,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:25:19,2,0,4,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:25:19,2,4,0,0.0
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:25:19,0,0,6,-1.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:25:19,5,1,0,0.0
+5, 2   0   3 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:25:19,2,0,3,0.0
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:25:19,2,3,0,0.0
+5, 3   1   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:25:19,3,1,1,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:25:19,4,0,1,0.0
+5, 0   0   5 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:25:19,0,0,5,-1.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:25:19,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:25:19,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:25:19,3,1,1,0.0
+5, 4   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:25:19,4,0,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:25:19,1,1,3,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:25:19,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:25:19,1,2,2,0.0
+5, 4   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:25:19,4,1,0,0.0
+4, 0   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:25:19,0,4,0,
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:25:19,1,0,3,0.0
+4, 0   0   4 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:25:19,0,0,4,
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:25:19,2,1,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:25:19,1,0,3,0.0
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:25:19,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:25:19,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:25:19,1,1,2,0.0
+4, 1   0   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:25:19,1,0,3,0.0
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:25:19,1,2,1,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:25:19,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 13:25:19,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:25:19,2,0,2,0.0
+3, 1   0   2 ,OI,O-I Glass Inc. Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 13:25:19,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:25:19,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:25:19,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:25:19,1,2,0,0.0
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:25:19,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:25:19,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:25:19,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:25:19,0,1,2,
+3, 1   1   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 13:25:19,1,1,1,0.0
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:25:19,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 13:25:19,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:25:19,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:25:19,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:25:19,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:25:19,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:25:19,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 13:25:19,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:25:19,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:25:19,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:25:19,1,2,0,0.0
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 13:25:19,1,0,2,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:25:19,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:25:19,0,1,2,
+3, 2   0   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 13:25:19,2,0,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:25:19,0,1,2,
+1609, 248   264   1097 ,GME,GameStop Corporation Common Stock,2021-04-16 13:35:36,248,264,1097,-0.035019455252918275
+398, 199   108   91 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:35:36,199,108,91,-0.08715596330275233
+238, 130   47   61 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:35:36,130,47,61,0.007751937984496138
+178, 82   58   38 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:35:36,82,58,38,0.0
+119, 71   25   23 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:35:36,71,25,23,0.014285714285714235
+53, 41   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:35:36,41,9,3,-0.023809523809523836
+52, 17   19   16 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:35:36,17,19,16,-0.05555555555555558
+44, 13   11   20 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:35:36,13,11,20,0.0
+32, 16   4   12 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:35:36,16,4,12,0.0
+25, 18   6   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:35:36,18,6,1,0.0
+24, 13   6   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:35:36,13,6,5,-0.1333333333333333
+23, 5   8   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:35:36,5,8,10,-0.16666666666666663
+20, 6   4   10 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:35:36,6,4,10,0.0
+20, 8   5   7 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:35:36,8,5,7,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:35:36,4,0,15,0.0
+18, 8   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:35:36,8,7,3,0.0
+17, 11   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:35:36,11,4,2,0.0
+16, 3   9   4 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:35:36,3,9,4,0.0
+16, 6   8   2 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:35:36,6,8,2,0.0
+16, 11   3   2 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:35:36,11,3,2,0.0
+15, 3   10   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:35:36,3,10,2,0.0
+14, 11   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:35:36,11,2,1,0.0
+13, 3   5   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:35:36,3,5,5,0.0
+11, 7   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:35:36,7,4,0,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:35:36,5,3,3,0.0
+10, 5   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:35:36,5,1,4,-0.16666666666666663
+10, 7   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:35:36,7,3,0,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:35:36,5,5,0,-0.16666666666666663
+10, 5   4   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:35:36,5,4,1,0.0
+9, 0   0   9 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:35:36,0,0,9,
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:35:36,1,0,8,0.0
+9, 3   4   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:35:36,3,4,2,-0.25
+9, 4   1   4 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:35:36,4,1,4,0.0
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:35:36,3,0,5,0.0
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:35:36,0,5,3,
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:35:36,1,7,0,0.0
+8, 2   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:35:36,2,3,3,0.0
+8, 6   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:35:36,6,1,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 13:35:36,3,1,3,0.0
+7, 2   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:35:36,2,2,3,-0.33333333333333337
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:35:36,1,1,5,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:35:36,4,2,1,0.0
+7, 6   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:35:36,6,1,0,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:35:36,3,1,3,0.0
+6, 4   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:35:36,4,0,2,0.0
+6, 5   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:35:36,5,1,0,0.25
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:35:36,3,1,2,0.0
+6, 2   1   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:35:36,2,1,3,0.0
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:35:36,5,1,0,0.0
+6, 3   2   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:35:36,3,2,1,0.0
+6, 3   0   3 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:35:36,3,0,3,0.0
+6, 2   0   4 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:35:36,2,0,4,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:35:36,2,2,2,-0.33333333333333337
+6, 3   2   1 ,GE,General Electric Company Common Stock,2021-04-16 13:35:36,3,2,1,-0.4
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:35:36,2,4,0,0.0
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:35:36,0,0,6,
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:35:36,5,1,0,0.0
+5, 1   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:35:36,1,4,0,inf
+5, 1   1   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:35:36,1,1,3,0.0
+5, 2   0   3 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:35:36,2,0,3,0.0
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:35:36,2,3,0,0.0
+5, 3   1   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:35:36,3,1,1,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:35:36,4,0,1,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:35:36,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:35:36,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:35:36,3,1,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:35:36,1,1,3,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:35:36,2,1,2,0.0
+5, 1   2   2 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:35:36,1,2,2,0.0
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:35:36,1,0,3,0.0
+4, 0   0   4 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:35:36,0,0,4,
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:35:36,2,1,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:35:36,1,0,3,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:35:36,0,0,4,
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:35:36,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:35:36,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:35:36,1,1,2,0.0
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:35:36,1,2,1,0.0
+4, 3   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:35:36,3,0,1,0.0
+4, 1   2   1 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 13:35:36,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:35:36,2,0,2,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 13:35:36,2,0,1,0.0
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 13:35:36,1,0,2,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 13:35:36,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:35:36,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:35:36,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:35:36,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:35:36,1,2,0,0.0
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:35:36,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:35:36,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:35:36,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:35:36,0,1,2,
+3, 1   1   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 13:35:36,1,1,1,0.0
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:35:36,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 13:35:36,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:35:36,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:35:36,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:35:36,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:35:36,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:35:36,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:35:36,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:35:36,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:35:36,1,0,2,0.0
+3, 0   1   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-16 13:35:36,0,1,2,
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:35:36,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:35:36,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:35:36,1,2,0,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:35:36,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:35:36,0,1,2,
+3, 2   0   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 13:35:36,2,0,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:35:36,0,1,2,
+1558, 243   253   1062 ,GME,GameStop Corporation Common Stock,2021-04-16 13:45:54,243,253,1062,-0.020161290322580627
+387, 198   101   88 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:45:54,198,101,88,-0.005025125628140725
+240, 129   51   60 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:45:54,129,51,60,-0.007692307692307665
+171, 79   56   36 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:45:54,79,56,36,-0.03658536585365857
+120, 72   26   22 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:45:54,72,26,22,0.014084507042253502
+51, 39   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:45:54,39,9,3,-0.04878048780487809
+48, 17   17   14 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:45:54,17,17,14,0.0
+37, 12   10   15 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:45:54,12,10,15,-0.07692307692307687
+33, 16   4   13 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:45:54,16,4,13,0.0
+26, 18   7   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:45:54,18,7,1,0.0
+24, 13   6   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:45:54,13,6,5,0.0
+23, 5   8   10 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:45:54,5,8,10,0.0
+21, 10   5   6 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:45:54,10,5,6,0.25
+20, 6   4   10 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:45:54,6,4,10,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:45:54,4,0,15,0.0
+18, 8   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:45:54,8,7,3,0.0
+16, 10   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:45:54,10,4,2,-0.09090909090909094
+16, 3   9   4 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:45:54,3,9,4,0.0
+15, 5   6   4 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:45:54,5,6,4,-0.16666666666666663
+14, 3   9   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:45:54,3,9,2,0.0
+14, 11   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:45:54,11,2,1,0.0
+14, 9   3   2 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:45:54,9,3,2,-0.18181818181818177
+13, 3   5   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:45:54,3,5,5,0.0
+11, 7   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:45:54,7,4,0,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:45:54,5,3,3,0.0
+10, 5   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:45:54,5,1,4,0.0
+10, 7   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:45:54,7,3,0,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:45:54,5,5,0,0.0
+9, 0   0   9 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:45:54,0,0,9,
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:45:54,1,0,8,0.0
+9, 5   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:45:54,5,3,1,0.0
+8, 5   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:45:54,5,2,1,0.25
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:45:54,3,0,5,0.0
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:45:54,0,5,3,
+8, 3   3   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:45:54,3,3,2,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:45:54,1,7,0,0.0
+8, 4   1   3 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:45:54,4,1,3,0.0
+7, 5   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:45:54,5,0,2,0.25
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 13:45:54,3,1,3,0.0
+7, 2   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:45:54,2,2,3,0.0
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:45:54,1,1,5,0.0
+7, 6   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:45:54,6,1,0,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:45:54,3,1,3,0.0
+7, 1   3   3 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:45:54,1,3,3,-0.5
+7, 5   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:45:54,5,1,1,-0.16666666666666663
+6, 5   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:45:54,5,1,0,0.0
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:45:54,3,1,2,0.0
+6, 2   1   3 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:45:54,2,1,3,0.0
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:45:54,5,1,0,0.0
+6, 3   0   3 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:45:54,3,0,3,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:45:54,2,2,2,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:45:54,2,4,0,0.0
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:45:54,0,0,6,
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:45:54,5,1,0,0.0
+5, 1   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:45:54,1,4,0,0.0
+5, 1   1   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:45:54,1,1,3,0.0
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:45:54,2,3,0,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:45:54,3,1,1,0.0
+5, 3   1   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:45:54,3,1,1,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:45:54,4,0,1,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:45:54,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:45:54,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:45:54,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:45:54,3,1,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:45:54,1,1,3,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:45:54,2,1,2,0.0
+4, 1   0   3 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:45:54,1,0,3,-0.5
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:45:54,1,0,3,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:45:54,2,1,1,0.0
+4, 1   0   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:45:54,1,0,3,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:45:54,0,0,4,
+4, 2   1   1 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:45:54,2,1,1,0.0
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:45:54,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:45:54,1,1,2,0.0
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:45:54,1,2,1,0.0
+4, 1   2   1 ,GE,General Electric Company Common Stock,2021-04-16 13:45:54,1,2,1,-0.6666666666666667
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:45:54,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:45:54,2,0,2,0.0
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 13:45:54,2,0,1,0.0
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 13:45:54,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:45:54,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:45:54,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:45:54,1,2,0,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:45:54,0,0,3,
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:45:54,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:45:54,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:45:54,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:45:54,0,1,2,
+3, 1   1   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 13:45:54,1,1,1,0.0
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:45:54,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 13:45:54,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:45:54,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:45:54,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:45:54,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:45:54,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:45:54,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:45:54,1,0,2,0.0
+3, 2   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:45:54,2,0,1,-0.33333333333333337
+3, 1   2   0 ,OCGN,Ocugen Inc. Common Stock,2021-04-16 13:45:54,1,2,0,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:45:54,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:45:54,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:45:54,1,2,0,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:45:54,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:45:54,0,1,2,
+3, 2   0   1 ,RBLX,Roblox Corporation Class A Common Stock,2021-04-16 13:45:54,2,0,1,0.0
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:45:54,0,1,2,
+1489, 236   242   1011 ,GME,GameStop Corporation Common Stock,2021-04-16 13:56:11,236,242,1011,-0.028806584362139898
+383, 195   101   87 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 13:56:11,195,101,87,-0.015151515151515138
+237, 127   50   60 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 13:56:11,127,50,60,-0.015503875968992276
+170, 76   56   38 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 13:56:11,76,56,38,-0.03797468354430378
+120, 72   27   21 ,TSLA,Tesla Inc. Common Stock,2021-04-16 13:56:11,72,27,21,0.0
+50, 38   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 13:56:11,38,9,3,-0.02564102564102566
+48, 17   16   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 13:56:11,17,16,15,0.0
+35, 12   9   14 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 13:56:11,12,9,14,0.0
+31, 15   4   12 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 13:56:11,15,4,12,-0.0625
+25, 17   7   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 13:56:11,17,7,1,-0.05555555555555558
+24, 13   6   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 13:56:11,13,6,5,0.0
+20, 10   4   6 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 13:56:11,10,4,6,0.0
+20, 3   8   9 ,BB,BlackBerry Limited Common Stock,2021-04-16 13:56:11,3,8,9,-0.4
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 13:56:11,4,0,15,0.0
+18, 6   3   9 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 13:56:11,6,3,9,0.0
+17, 7   7   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 13:56:11,7,7,3,-0.125
+15, 4   6   5 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 13:56:11,4,6,5,-0.19999999999999996
+15, 9   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 13:56:11,9,4,2,-0.09999999999999998
+15, 3   8   4 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 13:56:11,3,8,4,0.0
+14, 3   9   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 13:56:11,3,9,2,0.0
+14, 11   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 13:56:11,11,2,1,0.0
+13, 3   5   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 13:56:11,3,5,5,0.0
+12, 8   4   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 13:56:11,8,4,0,0.1428571428571428
+11, 7   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 13:56:11,7,4,0,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 13:56:11,5,3,3,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 13:56:11,5,5,0,0.0
+10, 5   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 13:56:11,5,1,4,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 13:56:11,1,0,8,0.0
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 13:56:11,0,0,8,
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 13:56:11,3,0,5,0.0
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 13:56:11,0,5,3,
+8, 3   3   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 13:56:11,3,3,2,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 13:56:11,1,7,0,0.0
+8, 4   1   3 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 13:56:11,4,1,3,0.0
+8, 5   2   1 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 13:56:11,5,2,1,-0.4444444444444444
+8, 4   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 13:56:11,4,3,1,-0.19999999999999996
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 13:56:11,4,2,1,-0.19999999999999996
+7, 5   0   2 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 13:56:11,5,0,2,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 13:56:11,3,1,3,0.0
+7, 2   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 13:56:11,2,2,3,0.0
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 13:56:11,1,1,5,0.0
+7, 6   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 13:56:11,6,1,0,0.0
+7, 3   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 13:56:11,3,1,3,0.0
+6, 5   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 13:56:11,5,1,0,0.0
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 13:56:11,3,1,2,0.0
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 13:56:11,5,1,0,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 13:56:11,2,2,2,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 13:56:11,2,4,0,0.0
+6, 4   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 13:56:11,4,1,1,-0.19999999999999996
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 13:56:11,0,0,6,
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 13:56:11,5,1,0,0.0
+5, 1   0   4 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 13:56:11,1,0,4,0.0
+5, 1   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 13:56:11,1,1,3,0.0
+5, 2   1   2 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 13:56:11,2,1,2,0.0
+5, 1   4   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 13:56:11,1,4,0,0.0
+5, 1   1   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 13:56:11,1,1,3,0.0
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 13:56:11,2,3,0,0.0
+5, 2   1   2 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 13:56:11,2,1,2,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 13:56:11,3,1,1,0.0
+5, 3   0   2 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 13:56:11,3,0,2,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 13:56:11,4,0,1,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 13:56:11,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 13:56:11,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 13:56:11,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 13:56:11,3,1,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 13:56:11,1,1,3,0.0
+5, 1   2   2 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 13:56:11,1,2,2,0.0
+5, 2   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 13:56:11,2,1,2,0.0
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 13:56:11,1,0,3,0.0
+4, 2   1   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 13:56:11,2,1,1,-0.33333333333333337
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 13:56:11,2,1,1,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 13:56:11,0,0,4,
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 13:56:11,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 13:56:11,1,1,2,0.0
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 13:56:11,1,2,1,0.0
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 13:56:11,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 13:56:11,2,0,2,0.0
+3, 2   0   1 ,GM,General Motors Company Common Stock,2021-04-16 13:56:11,2,0,1,-0.33333333333333337
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 13:56:11,2,0,1,0.0
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 13:56:11,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 13:56:11,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 13:56:11,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 13:56:11,1,2,0,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 13:56:11,0,0,3,
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 13:56:11,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 13:56:11,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 13:56:11,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 13:56:11,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 13:56:11,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 13:56:11,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 13:56:11,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 13:56:11,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 13:56:11,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 13:56:11,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 13:56:11,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 13:56:11,1,0,2,0.0
+3, 2   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 13:56:11,2,0,1,0.0
+3, 1   2   0 ,GE,General Electric Company Common Stock,2021-04-16 13:56:11,1,2,0,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 13:56:11,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 13:56:11,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 13:56:11,1,2,0,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 13:56:11,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 13:56:11,0,1,2,
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 13:56:11,0,1,2,
+1414, 232   231   951 ,GME,GameStop Corporation Common Stock,2021-04-16 14:06:28,232,231,951,-0.016949152542372836
+360, 178   101   81 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 14:06:28,178,101,81,-0.0871794871794872
+239, 129   51   59 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 14:06:28,129,51,59,0.015748031496062964
+171, 76   57   38 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 14:06:28,76,57,38,0.0
+117, 70   26   21 ,TSLA,Tesla Inc. Common Stock,2021-04-16 14:06:28,70,26,21,-0.02777777777777779
+49, 17   17   15 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 14:06:28,17,17,15,0.0
+49, 37   9   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 14:06:28,37,9,3,-0.02631578947368418
+34, 12   8   14 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 14:06:28,12,8,14,0.0
+30, 15   4   11 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 14:06:28,15,4,11,0.0
+24, 16   7   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 14:06:28,16,7,1,-0.05882352941176472
+23, 13   5   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 14:06:28,13,5,5,0.0
+20, 3   8   9 ,BB,BlackBerry Limited Common Stock,2021-04-16 14:06:28,3,8,9,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 14:06:28,4,0,15,0.0
+19, 9   4   6 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 14:06:28,9,4,6,-0.09999999999999998
+18, 6   3   9 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 14:06:28,6,3,9,0.0
+15, 4   6   5 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 14:06:28,4,6,5,0.0
+15, 6   6   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 14:06:28,6,6,3,-0.1428571428571429
+14, 8   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 14:06:28,8,4,2,-0.11111111111111116
+14, 3   7   4 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 14:06:28,3,7,4,0.0
+14, 11   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 14:06:28,11,2,1,0.0
+13, 2   5   6 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 14:06:28,2,5,6,-0.33333333333333337
+13, 3   8   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 14:06:28,3,8,2,0.0
+11, 7   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 14:06:28,7,4,0,0.0
+11, 5   3   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 14:06:28,5,3,3,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 14:06:28,5,5,0,0.0
+10, 7   3   0 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 14:06:28,7,3,0,-0.125
+9, 4   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 14:06:28,4,1,4,-0.19999999999999996
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 14:06:28,1,0,8,0.0
+8, 4   1   3 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 14:06:28,4,1,3,0.0
+8, 6   2   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 14:06:28,6,2,0,0.0
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 14:06:28,0,0,8,
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 14:06:28,3,0,5,0.0
+8, 0   5   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 14:06:28,0,5,3,
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 14:06:28,1,7,0,0.0
+8, 5   2   1 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 14:06:28,5,2,1,0.0
+8, 4   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 14:06:28,4,3,1,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 14:06:28,4,2,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 14:06:28,3,1,3,0.0
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 14:06:28,1,1,5,0.0
+7, 2   3   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 14:06:28,2,3,2,-0.33333333333333337
+6, 3   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 14:06:28,3,1,2,0.5
+6, 2   1   3 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 14:06:28,2,1,3,0.0
+6, 5   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 14:06:28,5,0,1,0.0
+6, 5   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 14:06:28,5,1,0,0.0
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 14:06:28,3,1,2,0.0
+6, 1   2   3 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 14:06:28,1,2,3,-0.5
+6, 5   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 14:06:28,5,1,0,0.0
+6, 2   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 14:06:28,2,1,3,-0.33333333333333337
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 14:06:28,2,2,2,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 14:06:28,2,4,0,0.0
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 14:06:28,0,0,6,
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 14:06:28,5,1,0,0.0
+5, 3   0   2 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 14:06:28,3,0,2,0.0
+5, 1   0   4 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 14:06:28,1,0,4,0.0
+5, 1   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 14:06:28,1,1,3,0.0
+5, 1   1   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 14:06:28,1,1,3,0.0
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 14:06:28,2,3,0,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 14:06:28,3,1,1,0.0
+5, 4   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 14:06:28,4,0,1,0.0
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 14:06:28,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 14:06:28,3,1,1,0.0
+5, 2   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 14:06:28,2,1,2,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 14:06:28,3,1,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 14:06:28,1,1,3,0.0
+5, 1   2   2 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 14:06:28,1,2,2,0.0
+5, 3   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 14:06:28,3,1,1,-0.25
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 14:06:28,1,2,1,0.0
+4, 1   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 14:06:28,1,3,0,0.0
+4, 2   1   1 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 14:06:28,2,1,1,0.0
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 14:06:28,1,0,3,0.0
+4, 2   1   1 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 14:06:28,2,1,1,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 14:06:28,2,1,1,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 14:06:28,0,0,4,
+4, 2   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 14:06:28,2,2,0,0.0
+4, 1   1   2 ,FOUR,Shift4 Payments Inc. Class A Common Stock,2021-04-16 14:06:28,1,1,2,0.0
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 14:06:28,1,2,1,0.0
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 14:06:28,1,2,1,0.0
+4, 2   0   2 ,FLY,Fly Leasing Limited,2021-04-16 14:06:28,2,0,2,0.0
+3, 2   0   1 ,GM,General Motors Company Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 1   0   2 ,MOD,Modine Manufacturing Company Common Stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 1   0   2 ,HA,Hawaiian Holdings Inc. Common Stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 14:06:28,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 14:06:28,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 14:06:28,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 14:06:28,1,2,0,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 14:06:28,0,0,3,
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 14:06:28,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 14:06:28,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 0   1   2 ,BLUE,bluebird bio Inc. Common Stock,2021-04-16 14:06:28,0,1,2,
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 14:06:28,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 14:06:28,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 14:06:28,1,1,1,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 14:06:28,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 14:06:28,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 14:06:28,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 14:06:28,1,0,2,0.0
+3, 2   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 1   2   0 ,GE,General Electric Company Common Stock,2021-04-16 14:06:28,1,2,0,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 14:06:28,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 14:06:28,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 14:06:28,1,2,0,0.0
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 14:06:28,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 14:06:28,0,1,2,
+3, 0   1   2 ,NINE,Nine Energy Service Inc. Common Stock,2021-04-16 14:06:28,0,1,2,
+1356, 225   223   908 ,GME,GameStop Corporation Common Stock,2021-04-16 14:16:43,225,223,908,-0.030172413793103425
+331, 164   94   73 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 14:16:43,164,94,73,-0.0786516853932584
+232, 125   50   57 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 14:16:43,125,50,57,-0.03100775193798455
+171, 78   55   38 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 14:16:43,78,55,38,0.026315789473684292
+115, 70   24   21 ,TSLA,Tesla Inc. Common Stock,2021-04-16 14:16:43,70,24,21,0.0
+49, 38   8   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 14:16:43,38,8,3,0.027027027027026973
+48, 16   18   14 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 14:16:43,16,18,14,-0.05882352941176472
+33, 11   8   14 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 14:16:43,11,8,14,-0.08333333333333337
+29, 14   4   11 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 14:16:43,14,4,11,-0.06666666666666665
+24, 13   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 14:16:43,13,5,6,0.0
+24, 16   7   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 14:16:43,16,7,1,0.0
+21, 3   9   9 ,BB,BlackBerry Limited Common Stock,2021-04-16 14:16:43,3,9,9,0.0
+19, 6   3   10 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 14:16:43,6,3,10,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 14:16:43,4,0,15,0.0
+19, 9   4   6 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 14:16:43,9,4,6,0.0
+17, 4   6   7 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 14:16:43,4,6,7,0.0
+15, 6   6   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 14:16:43,6,6,3,0.0
+13, 7   4   2 ,APHA,Aphria Inc. Common Shares,2021-04-16 14:16:43,7,4,2,-0.125
+13, 10   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 14:16:43,10,2,1,-0.09090909090909094
+12, 5   4   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 14:16:43,5,4,3,0.0
+12, 3   7   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 14:16:43,3,7,2,0.0
+12, 3   6   3 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 14:16:43,3,6,3,0.0
+11, 7   3   1 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 14:16:43,7,3,1,0.0
+11, 2   4   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 14:16:43,2,4,5,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 14:16:43,5,5,0,0.0
+10, 6   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 14:16:43,6,4,0,-0.1428571428571429
+9, 4   1   4 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 14:16:43,4,1,4,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 14:16:43,1,0,8,0.0
+8, 6   2   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 14:16:43,6,2,0,0.0
+8, 0   0   8 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 14:16:43,0,0,8,
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 14:16:43,3,0,5,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 14:16:43,1,7,0,0.0
+8, 5   2   1 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 14:16:43,5,2,1,0.0
+8, 4   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 14:16:43,4,3,1,0.0
+7, 4   0   3 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 14:16:43,4,0,3,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 14:16:43,4,2,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 14:16:43,3,1,3,0.0
+7, 0   4   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 14:16:43,0,4,3,
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 14:16:43,1,1,5,0.0
+6, 3   1   2 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 14:16:43,3,1,2,0.0
+6, 2   1   3 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 14:16:43,2,1,3,0.0
+6, 3   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 14:16:43,3,1,2,0.0
+6, 2   2   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 14:16:43,2,2,2,0.0
+6, 2   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 14:16:43,2,1,3,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 14:16:43,2,2,2,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 14:16:43,2,4,0,0.0
+6, 0   0   6 ,MOVE,Movano Inc. Common Stock,2021-04-16 14:16:43,0,0,6,
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 14:16:43,5,1,0,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 14:16:43,3,1,1,0.0
+5, 3   0   2 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 14:16:43,3,0,2,0.0
+5, 1   0   4 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 14:16:43,1,0,4,0.0
+5, 1   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 14:16:43,1,1,3,0.0
+5, 1   1   3 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 14:16:43,1,1,3,0.0
+5, 4   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 14:16:43,4,1,0,-0.19999999999999996
+5, 2   3   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 14:16:43,2,3,0,0.0
+5, 1   2   2 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 14:16:43,1,2,2,0.0
+5, 4   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 14:16:43,4,1,0,-0.19999999999999996
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 14:16:43,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 14:16:43,3,1,1,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 14:16:43,3,1,1,0.0
+5, 1   1   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 14:16:43,1,1,3,0.0
+5, 1   2   2 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 14:16:43,1,2,2,0.0
+5, 3   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 14:16:43,3,1,1,0.0
+4, 1   1   2 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 14:16:43,1,1,2,inf
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 14:16:43,1,2,1,0.0
+4, 3   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 14:16:43,3,0,1,-0.4
+4, 1   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 14:16:43,1,3,0,0.0
+4, 2   1   1 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 14:16:43,2,1,1,0.0
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 14:16:43,1,0,3,0.0
+4, 2   1   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 14:16:43,2,1,1,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 14:16:43,3,0,1,-0.25
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 14:16:43,0,0,4,
+4, 1   1   2 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 14:16:43,1,1,2,-0.5
+4, 1   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 14:16:43,1,2,1,0.0
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 14:16:43,1,2,1,0.0
+3, 1   0   2 ,WORK,Slack Technologies Inc. Class A Common Stock,2021-04-16 14:16:43,1,0,2,inf
+3, 2   1   0 ,CLNE,Clean Energy Fuels Corp. Common Stock,2021-04-16 14:16:43,2,1,0,0.0
+3, 2   0   1 ,GM,General Motors Company Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 14:16:43,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 14:16:43,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 14:16:43,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 14:16:43,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 14:16:43,1,2,0,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 14:16:43,0,0,3,
+3, 2   1   0 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 14:16:43,2,1,0,0.0
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 14:16:43,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 14:16:43,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 14:16:43,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 14:16:43,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 14:16:43,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 14:16:43,1,1,1,0.0
+3, 1   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 14:16:43,1,2,0,-0.5
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 14:16:43,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 14:16:43,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 14:16:43,3,0,0,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 14:16:43,0,1,2,
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 14:16:43,1,0,2,0.0
+3, 2   0   1 ,RFP,Resolute Forest Products Inc. Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 1   2   0 ,GE,General Electric Company Common Stock,2021-04-16 14:16:43,1,2,0,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 14:16:43,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 14:16:43,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 14:16:43,1,2,0,0.0
+3, 1   0   2 ,FLY,Fly Leasing Limited,2021-04-16 14:16:43,1,0,2,-0.5
+3, 0   2   1 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-16 14:16:43,0,2,1,
+3, 0   1   2 ,JOB,GEE Group Inc. Common Stock,2021-04-16 14:16:43,0,1,2,
+1293, 219   205   869 ,GME,GameStop Corporation Common Stock,2021-04-16 14:26:58,219,205,869,-0.026666666666666616
+301, 147   86   68 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 14:26:58,147,86,68,-0.10365853658536583
+226, 121   50   55 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 14:26:58,121,50,55,-0.03200000000000003
+168, 78   57   33 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 14:26:58,78,57,33,0.0
+111, 66   24   21 ,TSLA,Tesla Inc. Common Stock,2021-04-16 14:26:58,66,24,21,-0.05714285714285716
+49, 38   8   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 14:26:58,38,8,3,0.0
+47, 16   18   13 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 14:26:58,16,18,13,0.0
+35, 12   8   15 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 14:26:58,12,8,15,0.09090909090909083
+29, 14   4   11 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 14:26:58,14,4,11,0.0
+24, 13   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 14:26:58,13,5,6,0.0
+22, 15   6   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 14:26:58,15,6,1,-0.0625
+20, 3   9   8 ,BB,BlackBerry Limited Common Stock,2021-04-16 14:26:58,3,9,8,0.0
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 14:26:58,4,0,15,0.0
+17, 6   2   9 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 14:26:58,6,2,9,0.0
+17, 8   4   5 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 14:26:58,8,4,5,-0.11111111111111116
+16, 3   6   7 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 14:26:58,3,6,7,-0.25
+15, 6   6   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 14:26:58,6,6,3,0.0
+13, 10   2   1 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 14:26:58,10,2,1,0.0
+12, 5   4   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 14:26:58,5,4,3,0.0
+12, 7   4   1 ,APHA,Aphria Inc. Common Shares,2021-04-16 14:26:58,7,4,1,0.0
+12, 3   6   3 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 14:26:58,3,6,3,0.0
+11, 3   6   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 14:26:58,3,6,2,0.0
+10, 4   1   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 14:26:58,4,1,5,0.0
+10, 6   3   1 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 14:26:58,6,3,1,-0.1428571428571429
+10, 2   3   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 14:26:58,2,3,5,0.0
+10, 5   5   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 14:26:58,5,5,0,0.0
+10, 6   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 14:26:58,6,4,0,0.0
+9, 0   0   9 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 14:26:58,0,0,9,
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 14:26:58,1,0,8,0.0
+8, 6   2   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 14:26:58,6,2,0,0.0
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 14:26:58,3,0,5,0.0
+8, 1   7   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 14:26:58,1,7,0,0.0
+8, 5   2   1 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 14:26:58,5,2,1,0.0
+8, 4   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 14:26:58,4,3,1,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 14:26:58,4,2,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 14:26:58,3,1,3,0.0
+7, 0   4   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 14:26:58,0,4,3,
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 14:26:58,1,1,5,0.0
+6, 2   1   3 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 14:26:58,2,1,3,0.0
+6, 4   0   2 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 14:26:58,4,0,2,0.0
+6, 2   2   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 14:26:58,2,2,2,0.0
+6, 2   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 14:26:58,2,1,3,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 14:26:58,2,2,2,0.0
+6, 2   4   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 14:26:58,2,4,0,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 14:26:58,5,1,0,0.0
+5, 2   2   1 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 14:26:58,2,2,1,1.0
+5, 1   1   3 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 14:26:58,1,1,3,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 14:26:58,3,1,1,0.0
+5, 3   1   1 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 14:26:58,3,1,1,0.0
+5, 1   0   4 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 14:26:58,1,0,4,0.0
+5, 1   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 14:26:58,1,1,3,0.0
+5, 2   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 14:26:58,2,1,2,-0.33333333333333337
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 14:26:58,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 14:26:58,3,1,1,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 14:26:58,3,1,1,0.0
+5, 1   2   2 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 14:26:58,1,2,2,0.0
+5, 3   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 14:26:58,3,1,1,0.0
+5, 0   0   5 ,MOVE,Movano Inc. Common Stock,2021-04-16 14:26:58,0,0,5,
+4, 3   0   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 14:26:58,3,0,1,0.5
+4, 4   0   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 14:26:58,4,0,0,0.0
+4, 1   2   1 ,GE,General Electric Company Common Stock,2021-04-16 14:26:58,1,2,1,0.0
+4, 2   0   2 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 14:26:58,2,0,2,-0.33333333333333337
+4, 3   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 14:26:58,3,0,1,0.0
+4, 1   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 14:26:58,1,3,0,0.0
+4, 1   1   2 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 14:26:58,1,1,2,0.0
+4, 3   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 14:26:58,3,1,0,-0.25
+4, 2   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 14:26:58,2,2,0,0.0
+4, 1   2   1 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 14:26:58,1,2,1,0.0
+4, 2   1   1 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 14:26:58,2,1,1,0.0
+4, 1   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 14:26:58,1,0,3,0.0
+4, 3   0   1 ,NVAX,Novavax Inc. Common Stock,2021-04-16 14:26:58,3,0,1,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 14:26:58,0,0,4,
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 14:26:58,1,2,1,0.0
+3, 1   0   2 ,WORK,Slack Technologies Inc. Class A Common Stock,2021-04-16 14:26:58,1,0,2,0.0
+3, 2   1   0 ,CLNE,Clean Energy Fuels Corp. Common Stock,2021-04-16 14:26:58,2,1,0,0.0
+3, 1   1   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 14:26:58,2,0,1,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 14:26:58,3,0,0,0.0
+3, 0   2   1 ,FAT,FAT Brands Inc. Common Stock,2021-04-16 14:26:58,0,2,1,
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 14:26:58,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 14:26:58,0,0,3,
+3, 1   2   0 ,ASTS,"AST SpaceMobile, Inc. Class A Common Stock",2021-04-16 14:26:58,1,2,0,0.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 14:26:58,0,0,3,
+3, 2   1   0 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-16 14:26:58,2,1,0,0.0
+3, 1   1   1 ,GL,Globe Life Inc. Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 14:26:58,1,1,1,0.0
+3, 2   0   1 ,AN,AutoNation Inc. Common Stock,2021-04-16 14:26:58,2,0,1,0.0
+3, 2   0   1 ,ID,PARTS iD Inc. Class A Common Stock,2021-04-16 14:26:58,2,0,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 14:26:58,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 14:26:58,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 14:26:58,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 1   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 14:26:58,1,2,0,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 14:26:58,1,0,2,0.0
+3, 1   1   1 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 14:26:58,3,0,0,0.0
+3, 1   1   1 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 14:26:58,0,1,2,
+3, 1   1   1 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 14:26:58,1,1,1,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 14:26:58,1,0,2,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 14:26:58,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 14:26:58,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 14:26:58,1,2,0,0.0
+3, 1   0   2 ,FLY,Fly Leasing Limited,2021-04-16 14:26:58,1,0,2,0.0
+1245, 213   195   837 ,GME,GameStop Corporation Common Stock,2021-04-16 14:37:11,213,195,837,-0.0273972602739726
+267, 128   79   60 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-16 14:37:11,128,79,60,-0.12925170068027214
+224, 119   50   55 ,SPY,SPDR S&P 500 ETF Trust,2021-04-16 14:37:11,119,50,55,-0.016528925619834656
+165, 75   57   33 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-16 14:37:11,75,57,33,-0.038461538461538436
+106, 63   23   20 ,TSLA,Tesla Inc. Common Stock,2021-04-16 14:37:11,63,23,20,-0.045454545454545414
+48, 37   8   3 ,AAPL,Apple Inc. Common Stock,2021-04-16 14:37:11,37,8,3,-0.02631578947368418
+46, 15   18   13 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-16 14:37:11,15,18,13,-0.0625
+37, 12   8   17 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-16 14:37:11,12,8,17,0.0
+29, 14   4   11 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-16 14:37:11,14,4,11,0.0
+24, 13   5   6 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-16 14:37:11,13,5,6,0.0
+21, 14   6   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-16 14:37:11,14,6,1,-0.06666666666666665
+19, 4   0   15 ,SEE,Sealed Air Corporation Common Stock,2021-04-16 14:37:11,4,0,15,0.0
+18, 3   8   7 ,BB,BlackBerry Limited Common Stock,2021-04-16 14:37:11,3,8,7,0.0
+17, 7   1   9 ,RIDE,Lordstown Motors Corp. Class A Common Stock,2021-04-16 14:37:11,7,1,9,0.16666666666666674
+16, 3   6   7 ,SI,Silvergate Capital Corporation Class A Common Stock,2021-04-16 14:37:11,3,6,7,0.0
+15, 8   4   3 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-16 14:37:11,8,4,3,0.0
+15, 6   6   3 ,PLUG,Plug Power Inc. Common Stock,2021-04-16 14:37:11,6,6,3,0.0
+12, 5   4   3 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-04-16 14:37:11,5,4,3,0.0
+12, 7   4   1 ,APHA,Aphria Inc. Common Shares,2021-04-16 14:37:11,7,4,1,0.0
+11, 3   6   2 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-16 14:37:11,3,6,2,0.0
+11, 3   6   2 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-16 14:37:11,3,6,2,0.0
+11, 9   2   0 ,AMZN,Amazon.com Inc. Common Stock,2021-04-16 14:37:11,9,2,0,-0.09999999999999998
+10, 6   3   1 ,DIS,Walt Disney Company (The) Common Stock,2021-04-16 14:37:11,6,3,1,0.0
+10, 2   3   5 ,EDIT,Editas Medicine Inc. Common Stock,2021-04-16 14:37:11,2,3,5,0.0
+10, 6   4   0 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-16 14:37:11,6,4,0,0.0
+9, 3   1   5 ,MVIS,MicroVision Inc. Common Stock,2021-04-16 14:37:11,3,1,5,-0.25
+9, 0   0   9 ,IQ,iQIYI Inc. American Depositary Shares,2021-04-16 14:37:11,0,0,9,
+9, 5   4   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-16 14:37:11,5,4,0,0.0
+9, 1   0   8 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-16 14:37:11,1,0,8,0.0
+8, 6   2   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-16 14:37:11,6,2,0,0.0
+8, 3   0   5 ,HD,Home Depot Inc. (The) Common Stock,2021-04-16 14:37:11,3,0,5,0.0
+8, 4   3   1 ,SQ,Square Inc. Class A Common Stock,2021-04-16 14:37:11,4,3,1,0.0
+7, 4   2   1 ,QQQ,Invesco QQQ Trust Series 1,2021-04-16 14:37:11,4,2,1,0.0
+7, 3   1   3 ,HES,Hess Corporation Common Stock,2021-04-16 14:37:11,3,1,3,0.0
+7, 0   4   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-16 14:37:11,0,4,3,
+7, 1   1   5 ,PLAY,Dave & Buster's Entertainment Inc. Common Stock,2021-04-16 14:37:11,1,1,5,0.0
+7, 1   6   0 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-16 14:37:11,1,6,0,0.0
+7, 4   2   1 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-16 14:37:11,4,2,1,-0.19999999999999996
+6, 2   1   3 ,NEE,NextEra Energy Inc. Common Stock,2021-04-16 14:37:11,2,1,3,0.0
+6, 2   1   3 ,MP,MP Materials Corp. Common Stock,2021-04-16 14:37:11,2,1,3,0.0
+6, 2   2   2 ,FUBO,fuboTV Inc. Common Stock,2021-04-16 14:37:11,2,2,2,0.0
+6, 5   1   0 ,TTCF,Tattooed Chef Inc Class A Common Stock,2021-04-16 14:37:11,5,1,0,0.0
+5, 2   3   0 ,CRSR,Corsair Gaming Inc. Common Stock,2021-04-16 14:37:11,2,3,0,1.0
+5, 1   1   3 ,PRPL,Purple Innovation Inc. Common Stock,2021-04-16 14:37:11,1,1,3,0.0
+5, 3   1   1 ,JD,JD.com Inc. American Depositary Shares,2021-04-16 14:37:11,3,1,1,0.0
+5, 4   0   1 ,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,2021-04-16 14:37:11,4,0,1,0.0
+5, 1   1   3 ,AI,C3.ai Inc. Class A Common Stock,2021-04-16 14:37:11,1,1,3,0.0
+5, 2   1   2 ,PSFE,Paysafe Limited Common Shares,2021-04-16 14:37:11,2,1,2,0.0
+5, 1   2   2 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-16 14:37:11,1,2,2,-0.5
+5, 2   0   3 ,MAN,ManpowerGroup Common Stock,2021-04-16 14:37:11,2,0,3,0.0
+5, 3   1   1 ,AAL,American Airlines Group Inc. Common Stock,2021-04-16 14:37:11,3,1,1,0.0
+5, 3   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-16 14:37:11,3,1,1,0.0
+5, 1   2   2 ,MAIN,Main Street Capital Corporation Common Stock,2021-04-16 14:37:11,1,2,2,0.0
+5, 2   3   0 ,GS,Goldman Sachs Group Inc. (The) Common Stock,2021-04-16 14:37:11,2,3,0,0.0
+5, 3   1   1 ,MRNA,Moderna Inc. Common Stock,2021-04-16 14:37:11,3,1,1,0.0
+5, 0   0   5 ,MOVE,Movano Inc. Common Stock,2021-04-16 14:37:11,0,0,5,
+4, 1   1   2 ,JPM,JP Morgan Chase & Co. Common Stock,2021-04-16 14:37:11,1,1,2,0.0
+4, 2   2   0 ,LOW,Lowe's Companies Inc. Common Stock,2021-04-16 14:37:11,2,2,0,0.0
+4, 3   0   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-16 14:37:11,3,0,1,0.0
+4, 4   0   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-16 14:37:11,4,0,0,0.0
+4, 1   2   1 ,GE,General Electric Company Common Stock,2021-04-16 14:37:11,1,2,1,0.0
+4, 3   0   1 ,WOW,WideOpenWest Inc. Common Stock,2021-04-16 14:37:11,3,0,1,0.0
+4, 1   0   3 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-16 14:37:11,1,0,3,0.0
+4, 3   0   1 ,EBON,Ebang International Holdings Inc. Class A Ordinary Shares,2021-04-16 14:37:11,3,0,1,0.0
+4, 1   1   2 ,MSM,MSC Industrial Direct Company Inc. Common Stock,2021-04-16 14:37:11,1,1,2,0.0
+4, 3   1   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-16 14:37:11,3,1,0,0.0
+4, 2   2   0 ,ZOM,Zomedica Corp. Common Shares,2021-04-16 14:37:11,2,2,0,0.0
+4, 2   1   1 ,SNAP,Snap Inc. Class A Common Stock,2021-04-16 14:37:11,2,1,1,0.0
+4, 0   0   4 ,UI,Ubiquiti Inc. Common Stock,2021-04-16 14:37:11,0,0,4,
+4, 1   2   1 ,INO,Inovio Pharmaceuticals Inc. Common Stock,2021-04-16 14:37:11,1,2,1,0.0
+3, 1   0   2 ,WORK,Slack Technologies Inc. Class A Common Stock,2021-04-16 14:37:11,1,0,2,0.0
+3, 2   1   0 ,CLNE,Clean Energy Fuels Corp. Common Stock,2021-04-16 14:37:11,2,1,0,0.0
+3, 1   1   1 ,CC,Chemours Company (The) Common Stock,2021-04-16 14:37:11,1,1,1,0.0
+3, 1   0   2 ,LIFE,aTyr Pharma Inc. Common Stock,2021-04-16 14:37:11,1,0,2,-0.5
+3, 2   0   1 ,CAT,Caterpillar Inc. Common Stock,2021-04-16 14:37:11,2,0,1,0.0
+3, 3   0   0 ,KO,Coca-Cola Company (The) Common Stock,2021-04-16 14:37:11,3,0,0,0.0
+3, 1   2   0 ,WKHS,Workhorse Group Inc. Common Stock,2021-04-16 14:37:11,1,2,0,0.0
+3, 1   0   2 ,TELL,Tellurian Inc. Common Stock,2021-04-16 14:37:11,1,0,2,0.0
+3, 0   0   3 ,NICE,NICE Ltd American Depositary Shares,2021-04-16 14:37:11,0,0,3,
+3, 0   0   3 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-16 14:37:11,0,0,3,-1.0
+3, 0   0   3 ,HEAR,Turtle Beach Corporation Common Stock,2021-04-16 14:37:11,0,0,3,
+3, 1   1   1 ,JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2021-04-16 14:37:11,1,1,1,0.0
+3, 2   1   0 ,GLD,SPDR Gold Trust,2021-04-16 14:37:11,2,1,0,0.0
+3, 1   0   2 ,III,Information Services Group Inc. Information Services Group Inc. Common Stock,2021-04-16 14:37:11,1,0,2,0.0
+3, 2   1   0 ,JNJ,Johnson & Johnson Common Stock,2021-04-16 14:37:11,2,1,0,0.0
+3, 1   1   1 ,CALM,Cal-Maine Foods Inc. Common Stock,2021-04-16 14:37:11,1,1,1,0.0
+3, 1   2   0 ,SAFE,Safehold Inc. Common Stock,2021-04-16 14:37:11,1,2,0,0.0
+3, 1   0   2 ,INMB,INmune Bio Inc. Common stock,2021-04-16 14:37:11,1,0,2,0.0
+3, 3   0   0 ,IRTC,iRhythm Technologies Inc. Common Stock,2021-04-16 14:37:11,3,0,0,0.0
+3, 1   1   1 ,LIVE,Live Ventures Incorporated Common Stock,2021-04-16 14:37:11,1,1,1,0.0
+3, 0   1   2 ,WFC,Wells Fargo & Company Common Stock,2021-04-16 14:37:11,0,1,2,
+3, 1   1   1 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-16 14:37:11,1,1,1,0.0
+3, 1   0   2 ,DM,Desktop Metal Inc. Class A Common Stock,2021-04-16 14:37:11,1,0,2,0.0
+3, 0   0   3 ,OC,Owens Corning Inc Common Stock New,2021-04-16 14:37:11,0,0,3,
+3, 2   0   1 ,SBUX,Starbucks Corporation Common Stock,2021-04-16 14:37:11,2,0,1,0.0
+3, 1   2   0 ,FVRR,Fiverr International Ltd. Ordinary Shares no par value,2021-04-16 14:37:11,1,2,0,0.0
