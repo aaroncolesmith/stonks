@@ -27761,3 +27761,27 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 1   2   0 ,BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,2021-04-22 17:28:10,1,2,0,0.0
 3, 2   1   0 ,CC,Chemours Company (The) Common Stock,2021-04-22 17:28:10,2,1,0,0.0
 3, 1   1   1 ,HD,Home Depot Inc. (The) Common Stock,2021-04-22 17:28:10,1,1,1,0.0
+51, 29   13   9 ,MVIS,MicroVision Inc. Common Stock,2021-04-25 10:02:56,29,13,9,-0.29268292682926833
+24, 15   4   5 ,TSLA,Tesla Inc. Common Stock,2021-04-25 10:02:56,15,4,5,-0.21052631578947367
+22, 8   6   8 ,GME,GameStop Corporation Common Stock,2021-04-25 10:02:56,8,6,8,-0.5555555555555556
+21, 9   4   8 ,OCGN,Ocugen Inc. Common Stock,2021-04-25 10:02:56,9,4,8,-0.8363636363636364
+19, 6   10   3 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-25 10:02:56,6,10,3,-0.76
+14, 9   4   1 ,AAPL,Apple Inc. Common Stock,2021-04-25 10:02:56,9,4,1,0.2857142857142858
+10, 5   3   2 ,SPY,SPDR S&P 500 ETF Trust,2021-04-25 10:02:56,5,3,2,-0.8809523809523809
+9, 1   1   7 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-25 10:02:56,1,1,7,-0.8333333333333334
+9, 5   2   2 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-25 10:02:56,5,2,2,-0.2857142857142857
+7, 5   2   0 ,GM,General Motors Company Common Stock,2021-04-25 10:02:56,5,2,0,0.25
+6, 1   2   3 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-25 10:02:56,1,2,3,-0.9
+5, 3   1   1 ,PLBY,PLBY Group Inc. Common Stock,2021-04-25 10:02:56,3,1,1,2.0
+4, 2   0   2 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-25 10:02:56,2,0,2,-0.6666666666666667
+4, 4   0   0 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-25 10:02:56,4,0,0,-0.8787878787878788
+4, 3   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-25 10:02:56,3,1,0,0.0
+3, 2   1   0 ,LAZR,Luminar Technologies Inc.  Class A Common Stock,2021-04-25 10:02:56,2,1,0,1.0
+3, 1   2   0 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-25 10:02:56,1,2,0,-0.6666666666666667
+3, 0   2   1 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-25 10:02:56,0,2,1,-1.0
+3, 3   0   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-25 10:02:56,3,0,0,0.0
+3, 1   0   2 ,CC,Chemours Company (The) Common Stock,2021-04-25 10:02:56,1,0,2,-0.5
+3, 1   1   1 ,SKM,SK Telecom Co. Ltd. Common Stock,2021-04-25 10:02:56,1,1,1,
+3, 3   0   0 ,GOOG,Alphabet Inc. Class C Capital Stock,2021-04-25 10:02:56,3,0,0,2.0
+3, 2   0   1 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-25 10:02:56,2,0,1,1.0
+3, 1   1   1 ,ACTC,ArcLight Clean Transition Corp. Class A Ordinary Shares,2021-04-25 10:02:56,1,1,1,0.0
