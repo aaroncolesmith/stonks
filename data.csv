@@ -28703,3 +28703,63 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 2   0   1 ,CRM,Salesforce.com Inc Common Stock,2021-04-26 16:32:26,2,0,1,0.0
 3, 3   0   0 ,CMPS,COMPASS Pathways Plc American Depository Shares,2021-04-26 16:32:26,3,0,0,0.0
 3, 2   0   1 ,ESTC,Elastic N.V. Ordinary Shares,2021-04-26 16:32:26,2,0,1,0.0
+519, 247   169   103 ,MVIS,MicroVision Inc. Common Stock,2021-04-27 06:34:44,247,169,103,-0.6291291291291291
+185, 69   33   83 ,GME,GameStop Corporation Common Stock,2021-04-27 06:34:44,69,33,83,-0.7909090909090909
+50, 23   15   12 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-27 06:34:44,23,15,12,0.045454545454545414
+45, 27   12   6 ,TSLA,Tesla Inc. Common Stock,2021-04-27 06:34:44,27,12,6,-0.8200000000000001
+43, 34   3   6 ,NNDM,Nano Dimension Ltd. American Depositary Shares,2021-04-27 06:34:44,34,3,6,16.0
+36, 28   7   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-27 06:34:44,28,7,1,-0.2222222222222222
+32, 17   10   5 ,SPY,SPDR S&P 500 ETF Trust,2021-04-27 06:34:44,17,10,5,-0.679245283018868
+27, 13   4   10 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-27 06:34:44,13,4,10,-0.59375
+24, 14   7   3 ,OCGN,Ocugen Inc. Common Stock,2021-04-27 06:34:44,14,7,3,-0.125
+20, 13   1   6 ,GSAT,Globalstar Inc. Common Stock,2021-04-27 06:34:44,13,1,6,0.0
+19, 10   8   1 ,AAPL,Apple Inc. Common Stock,2021-04-27 06:34:44,10,8,1,-0.6
+17, 14   3   0 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-27 06:34:44,14,3,0,-0.2222222222222222
+14, 10   2   2 ,UPS,United Parcel Service Inc. Common Stock,2021-04-27 06:34:44,10,2,2,2.3333333333333335
+13, 5   2   6 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-04-27 06:34:44,5,2,6,0.25
+12, 5   3   4 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-27 06:34:44,5,3,4,-0.4444444444444444
+11, 4   4   3 ,GE,General Electric Company Common Stock,2021-04-27 06:34:44,4,4,3,1.0
+11, 5   3   3 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-27 06:34:44,5,3,3,1.5
+10, 7   0   3 ,BNGO,Bionano Genomics Inc. Common Stock,2021-04-27 06:34:44,7,0,3,-0.125
+9, 2   7   0 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-27 06:34:44,2,7,0,-0.7777777777777778
+9, 4   2   3 ,BB,BlackBerry Limited Common Stock,2021-04-27 06:34:44,4,2,3,-0.7647058823529411
+9, 3   3   3 ,APHA,Aphria Inc. Common Shares,2021-04-27 06:34:44,3,3,3,-0.4
+8, 3   1   4 ,SENS,Senseonics Holdings Inc. Common Stock,2021-04-27 06:34:44,3,1,4,2.0
+7, 3   3   1 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-04-27 06:34:44,3,3,1,-0.25
+6, 5   1   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-04-27 06:34:44,5,1,0,-0.16666666666666663
+6, 4   0   2 ,PSFE,Paysafe Limited Common Shares,2021-04-27 06:34:44,4,0,2,-0.6
+6, 2   1   3 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-04-27 06:34:44,2,1,3,0.0
+6, 3   0   3 ,AMZN,Amazon.com Inc. Common Stock,2021-04-27 06:34:44,3,0,3,-0.8888888888888888
+5, 3   1   1 ,CTRM,Castor Maritime Inc. Common Shares,2021-04-27 06:34:44,3,1,1,0.0
+5, 2   2   1 ,SKLZ,Skillz Inc. Class A Common Stock,2021-04-27 06:34:44,2,2,1,-0.875
+5, 3   0   2 ,MIND,MIND Technology Inc. Common Stock (DE),2021-04-27 06:34:44,3,0,2,0.0
+5, 3   0   2 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-27 06:34:44,3,0,2,-0.25
+5, 4   1   0 ,ACB,Aurora Cannabis Inc. Common Shares,2021-04-27 06:34:44,4,1,0,1.0
+5, 0   0   5 ,NEO,NeoGenomics Inc. Common Stock,2021-04-27 06:34:44,0,0,5,
+4, 2   1   1 ,CLNE,Clean Energy Fuels Corp. Common Stock,2021-04-27 06:34:44,2,1,1,-0.75
+4, 2   1   1 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-04-27 06:34:44,2,1,1,0.0
+4, 3   0   1 ,ZOM,Zomedica Corp. Common Shares,2021-04-27 06:34:44,3,0,1,0.5
+4, 2   2   0 ,WISH,ContextLogic Inc. Class A Common Stock,2021-04-27 06:34:44,2,2,0,-0.33333333333333337
+4, 2   0   2 ,FB,Facebook Inc. Class A Common Stock,2021-04-27 06:34:44,2,0,2,0.0
+4, 3   0   1 ,FUBO,fuboTV Inc. Common Stock,2021-04-27 06:34:44,3,0,1,inf
+4, 3   1   0 ,SNDL,Sundial Growers Inc. Common Shares,2021-04-27 06:34:44,3,1,0,0.5
+4, 2   1   1 ,HYLN,Hyliion Holdings Corp. Class A Common Stock,2021-04-27 06:34:44,2,1,1,0.0
+4, 3   1   0 ,MSFT,Microsoft Corporation Common Stock,2021-04-27 06:34:44,3,1,0,-0.4
+4, 1   3   0 ,PLBY,PLBY Group Inc. Common Stock,2021-04-27 06:34:44,1,3,0,-0.5
+4, 2   2   0 ,NVDA,NVIDIA Corporation Common Stock,2021-04-27 06:34:44,2,2,0,-0.33333333333333337
+4, 2   1   1 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-04-27 06:34:44,2,1,1,0.0
+4, 0   2   2 ,QS,QuantumScape Corporation Class A Common Stock,2021-04-27 06:34:44,0,2,2,-1.0
+3, 2   0   1 ,CROX,Crocs Inc. Common Stock,2021-04-27 06:34:44,2,0,1,0.0
+3, 2   0   1 ,GMBL,Esports Entertainment Group Inc. Common Stock,2021-04-27 06:34:44,2,0,1,
+3, 2   1   0 ,PENN,Penn National Gaming Inc. Common Stock,2021-04-27 06:34:44,2,1,0,0.0
+3, 2   1   0 ,CHPT,ChargePoint Holdings Inc. Common Stock,2021-04-27 06:34:44,2,1,0,-0.6
+3, 3   0   0 ,LAC,Lithium Americas Corp. Common Shares,2021-04-27 06:34:44,3,0,0,2.0
+3, 2   0   1 ,TIRX,TIAN RUIXIANG Holdings Ltd Class A Ordinary Shares,2021-04-27 06:34:44,2,0,1,
+3, 1   1   1 ,ALDX,Aldeyra Therapeutics Inc. Common Stock,2021-04-27 06:34:44,1,1,1,
+3, 0   1   2 ,GL,Globe Life Inc. Common Stock,2021-04-27 06:34:44,0,1,2,
+3, 2   0   1 ,MO,Altria Group Inc.,2021-04-27 06:34:44,2,0,1,1.0
+3, 1   2   0 ,LAZR,Luminar Technologies Inc.  Class A Common Stock,2021-04-27 06:34:44,1,2,0,0.0
+3, 2   1   0 ,BP,BP p.l.c. Common Stock,2021-04-27 06:34:44,2,1,0,-0.33333333333333337
+3, 0   0   3 ,MNKD,MannKind Corporation Common Stock,2021-04-27 06:34:44,0,0,3,-1.0
+3, 3   0   0 ,CCIV,Churchill Capital Corp IV Class A Common Stock,2021-04-27 06:34:44,3,0,0,-0.4
+3, 3   0   0 ,CRON,Cronos Group Inc. Common Share,2021-04-27 06:34:44,3,0,0,-0.7272727272727273
