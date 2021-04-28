@@ -30933,3 +30933,33 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 2   0   1 ,BBQ,BBQ Holdings Inc. Common Stock,2021-04-27 23:09:21,2,0,1,0.0
 3, 3   0   0 ,ETH,Ethan Allen Interiors Inc. Common Stock,2021-04-27 23:09:21,3,0,0,0.0
 3, 2   0   1 ,V,Visa Inc.,2021-04-27 23:09:21,2,0,1,0.0
+248, 130   74   44 ,MVIS,MicroVision Inc. Common Stock,2021-04-28 06:23:46,130,74,44,2.0232558139534884
+63, 44   15   4 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-04-28 06:23:46,44,15,4,0.1578947368421053
+51, 14   15   22 ,GME,GameStop Corporation Common Stock,2021-04-28 06:23:46,14,15,22,-0.43999999999999995
+37, 19   15   3 ,AAPL,Apple Inc. Common Stock,2021-04-28 06:23:46,19,15,3,1.7142857142857144
+35, 25   7   3 ,TSLA,Tesla Inc. Common Stock,2021-04-28 06:23:46,25,7,3,0.38888888888888884
+30, 12   14   4 ,SPY,SPDR S&P 500 ETF Trust,2021-04-28 06:23:46,12,14,4,0.0
+23, 16   6   1 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-04-28 06:23:46,16,6,1,1.6666666666666665
+21, 5   9   7 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-04-28 06:23:46,5,9,7,-0.75
+17, 6   10   1 ,MSFT,Microsoft Corporation Common Stock,2021-04-28 06:23:46,6,10,1,-0.25
+13, 6   3   4 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-04-28 06:23:46,6,3,4,-0.4
+11, 9   0   2 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-04-28 06:23:46,9,0,2,0.0
+10, 5   2   3 ,SHOP,Shopify Inc. Class A Subordinate Voting Shares,2021-04-28 06:23:46,5,2,3,0.6666666666666667
+10, 5   3   2 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-04-28 06:23:46,5,3,2,0.6666666666666667
+9, 3   3   3 ,DISCA,Discovery Inc. Series A Common Stock,2021-04-28 06:23:46,3,3,3,-0.25
+8, 4   4   0 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-04-28 06:23:46,4,4,0,-0.6666666666666667
+7, 2   5   0 ,BA,Boeing Company (The) Common Stock,2021-04-28 06:23:46,2,5,0,inf
+7, 3   2   2 ,GOOG,Alphabet Inc. Class C Capital Stock,2021-04-28 06:23:46,3,2,2,-0.25
+5, 0   5   0 ,FB,Facebook Inc. Class A Common Stock,2021-04-28 06:23:46,0,5,0,-1.0
+4, 4   0   0 ,AMZN,Amazon.com Inc. Common Stock,2021-04-28 06:23:46,4,0,0,0.0
+4, 3   1   0 ,EC,Ecopetrol S.A. American Depositary Shares,2021-04-28 06:23:46,3,1,0,2.0
+4, 1   1   2 ,OCGN,Ocugen Inc. Common Stock,2021-04-28 06:23:46,1,1,2,-0.75
+3, 1   2   0 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-04-28 06:23:46,1,2,0,-0.6666666666666667
+3, 2   1   0 ,GSAT,Globalstar Inc. Common Stock,2021-04-28 06:23:46,2,1,0,inf
+3, 1   2   0 ,ENPH,Enphase Energy Inc. Common Stock,2021-04-28 06:23:46,1,2,0,inf
+3, 3   0   0 ,ACAD,ACADIA Pharmaceuticals Inc. Common Stock,2021-04-28 06:23:46,3,0,0,0.5
+3, 2   0   1 ,GE,General Electric Company Common Stock,2021-04-28 06:23:46,2,0,1,inf
+3, 0   3   0 ,ROOT,Root Inc. Class A Common Stock,2021-04-28 06:23:46,0,3,0,
+3, 0   0   3 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-04-28 06:23:46,0,0,3,-1.0
+3, 0   3   0 ,PINS,Pinterest Inc. Class A Common Stock,2021-04-28 06:23:46,0,3,0,-1.0
+3, 2   1   0 ,NNDM,Nano Dimension Ltd. American Depositary Shares,2021-04-28 06:23:46,2,1,0,-0.33333333333333337
