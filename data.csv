@@ -34854,3 +34854,88 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 0   2   1 ,CAR,Avis Budget Group Inc. Common Stock,2021-05-04 16:23:48,0,2,1,-1.0
 3, 3   0   0 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-05-04 16:23:48,3,0,0,-0.4
 3, 2   0   1 ,LEDS,SemiLEDS Corporation Common Stock,2021-05-04 16:23:48,2,0,1,
+262, 112   81   69 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-05-05 08:36:43,112,81,69,0.8666666666666667
+105, 53   27   25 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-05-05 08:36:43,53,27,25,0.06000000000000005
+89, 39   26   24 ,MVIS,MicroVision Inc. Common Stock,2021-05-05 08:36:43,39,26,24,-0.48
+84, 40   25   19 ,SPY,SPDR S&P 500 ETF Trust,2021-05-05 08:36:43,40,25,19,-0.31034482758620685
+76, 37   32   7 ,PTON,Peloton Interactive Inc. Class A Common Stock,2021-05-05 08:36:43,37,32,7,2.7
+75, 20   10   45 ,GME,GameStop Corporation Common Stock,2021-05-05 08:36:43,20,10,45,-0.3939393939393939
+57, 43   10   4 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-05-05 08:36:43,43,10,4,-0.41891891891891897
+49, 31   6   12 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-05-05 08:36:43,31,6,12,4.166666666666667
+47, 18   15   14 ,TSLA,Tesla Inc. Common Stock,2021-05-05 08:36:43,18,15,14,-0.052631578947368474
+44, 32   8   4 ,CRSR,Corsair Gaming Inc. Common Stock,2021-05-05 08:36:43,32,8,4,1.2857142857142856
+32, 16   4   12 ,ACB,Aurora Cannabis Inc. Common Shares,2021-05-05 08:36:43,16,4,12,4.333333333333333
+29, 17   4   8 ,MNMD,Mind Medicine (MindMed) Inc.,2021-05-05 08:36:43,17,4,8,1.4285714285714284
+27, 24   2   1 ,FCX,Freeport-McMoRan Inc. Common Stock,2021-05-05 08:36:43,24,2,1,11.0
+25, 12   7   6 ,OCGN,Ocugen Inc. Common Stock,2021-05-05 08:36:43,12,7,6,0.33333333333333326
+24, 14   4   6 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-05-05 08:36:43,14,4,6,-0.125
+24, 12   10   2 ,AAPL,Apple Inc. Common Stock,2021-05-05 08:36:43,12,10,2,-0.5384615384615384
+23, 16   7   0 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-05-05 08:36:43,16,7,0,1.0
+22, 13   4   5 ,SNDL,Sundial Growers Inc. Common Shares,2021-05-05 08:36:43,13,4,5,3.333333333333333
+20, 2   14   4 ,VXRT,Vaxart Inc Common Stock,2021-05-05 08:36:43,2,14,4,1.0
+19, 6   3   10 ,NOK,Nokia Corporation Sponsored American Depositary Shares,2021-05-05 08:36:43,6,3,10,inf
+18, 7   6   5 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-05-05 08:36:43,7,6,5,-0.46153846153846156
+18, 8   7   3 ,PLBY,PLBY Group Inc. Common Stock,2021-05-05 08:36:43,8,7,3,3.0
+18, 11   2   5 ,XOM,Exxon Mobil Corporation Common Stock,2021-05-05 08:36:43,11,2,5,1.2000000000000002
+17, 8   5   4 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-05-05 08:36:43,8,5,4,0.33333333333333326
+16, 5   5   6 ,COIN,"Coinbase Global, Inc. Class A Common Stock",2021-05-05 08:36:43,5,5,6,0.25
+16, 11   3   2 ,CLNE,Clean Energy Fuels Corp. Common Stock,2021-05-05 08:36:43,11,3,2,0.375
+13, 10   2   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-05-05 08:36:43,10,2,1,-0.2857142857142857
+13, 3   7   3 ,GM,General Motors Company Common Stock,2021-05-05 08:36:43,3,7,3,2.0
+12, 10   1   1 ,NVDA,NVIDIA Corporation Common Stock,2021-05-05 08:36:43,10,1,1,-0.375
+11, 4   6   1 ,QQQ,Invesco QQQ Trust Series 1,2021-05-05 08:36:43,4,6,1,0.0
+11, 8   3   0 ,MSFT,Microsoft Corporation Common Stock,2021-05-05 08:36:43,8,3,0,-0.5294117647058824
+11, 6   3   2 ,ATNX,Athenex Inc. Common Stock,2021-05-05 08:36:43,6,3,2,
+11, 9   2   0 ,BNGO,Bionano Genomics Inc. Common Stock,2021-05-05 08:36:43,9,2,0,2.0
+10, 5   2   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-05-05 08:36:43,5,2,3,1.5
+10, 4   2   4 ,MARA,Marathon Digital Holdings Inc. Common Stock,2021-05-05 08:36:43,4,2,4,0.33333333333333326
+10, 7   0   3 ,GTE,Gran Tierra Energy Inc. Common Stock,2021-05-05 08:36:43,7,0,3,2.5
+9, 5   3   1 ,DIS,Walt Disney Company (The) Common Stock,2021-05-05 08:36:43,5,3,1,1.5
+9, 2   4   3 ,FB,Facebook Inc. Class A Common Stock,2021-05-05 08:36:43,2,4,3,1.0
+8, 6   1   1 ,GSAT,Globalstar Inc. Common Stock,2021-05-05 08:36:43,6,1,1,1.0
+8, 6   1   1 ,HD,Home Depot Inc. (The) Common Stock,2021-05-05 08:36:43,6,1,1,2.0
+8, 5   1   2 ,IBIO,iBio Inc. Common Stock,2021-05-05 08:36:43,5,1,2,0.6666666666666667
+7, 4   2   1 ,SOS,SOS Limited American Depositary Shares,2021-05-05 08:36:43,4,2,1,inf
+7, 4   2   1 ,BTX,Brooklyn ImmunoTherapeutics Inc. Common Stock,2021-05-05 08:36:43,4,2,1,0.0
+7, 7   0   0 ,CVX,Chevron Corporation Common Stock,2021-05-05 08:36:43,7,0,0,0.75
+7, 2   4   1 ,UBER,Uber Technologies Inc. Common Stock,2021-05-05 08:36:43,2,4,1,-0.33333333333333337
+6, 3   1   2 ,BB,BlackBerry Limited Common Stock,2021-05-05 08:36:43,3,1,2,-0.25
+6, 2   0   4 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-05-05 08:36:43,2,0,4,-0.6
+6, 3   3   0 ,SKLZ,Skillz Inc. Class A Common Stock,2021-05-05 08:36:43,3,3,0,-0.9032258064516129
+6, 2   0   4 ,PSFE,Paysafe Limited Common Shares,2021-05-05 08:36:43,2,0,4,-0.75
+6, 1   5   0 ,NKLA,Nikola Corporation Common Stock,2021-05-05 08:36:43,1,5,0,0.0
+6, 3   0   3 ,PRPO,Precipio Inc.  Common Stock,2021-05-05 08:36:43,3,0,3,0.5
+6, 3   1   2 ,SQ,Square Inc. Class A Common Stock,2021-05-05 08:36:43,3,1,2,0.5
+5, 4   0   1 ,MT,Arcelor Mittal NY Registry Shares NEW,2021-05-05 08:36:43,4,0,1,3.0
+5, 2   1   2 ,APHA,Aphria Inc. Common Shares,2021-05-05 08:36:43,2,1,2,inf
+5, 3   1   1 ,MUDS,Mudrick Capital Acquisition Corporation II Class A Common Stock,2021-05-05 08:36:43,3,1,1,-0.25
+5, 1   1   3 ,ETSY,Etsy Inc. Common Stock,2021-05-05 08:36:43,1,1,3,-0.5
+5, 2   2   1 ,RIOT,Riot Blockchain Inc.  Common Stock ,2021-05-05 08:36:43,2,2,1,-0.33333333333333337
+5, 1   2   2 ,LYFT,Lyft Inc. Class A Common Stock,2021-05-05 08:36:43,1,2,2,inf
+4, 1   1   2 ,TWTR,Twitter Inc. Common Stock,2021-05-05 08:36:43,1,1,2,-0.5
+4, 2   0   2 ,AMZN,Amazon.com Inc. Common Stock,2021-05-05 08:36:43,2,0,2,0.0
+4, 4   0   0 ,DKNG,DraftKings Inc. Class A Common Stock,2021-05-05 08:36:43,4,0,0,-0.33333333333333337
+4, 3   1   0 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-05-05 08:36:43,3,1,0,-0.75
+4, 3   0   1 ,MRO,Marathon Oil Corporation Common Stock,2021-05-05 08:36:43,3,0,1,2.0
+4, 2   0   2 ,PLUG,Plug Power Inc. Common Stock,2021-05-05 08:36:43,2,0,2,0.0
+4, 0   4   0 ,AAWW,Atlas Air Worldwide Holdings NEW Common Stock,2021-05-05 08:36:43,0,4,0,
+4, 2   0   2 ,IP,International Paper Company Common Stock,2021-05-05 08:36:43,2,0,2,1.0
+4, 0   0   4 ,UAA,Under Armour Inc. Class A Common Stock,2021-05-05 08:36:43,0,0,4,
+4, 2   2   0 ,BP,BP p.l.c. Common Stock,2021-05-05 08:36:43,2,2,0,-0.6666666666666667
+4, 4   0   0 ,PFE,Pfizer Inc. Common Stock,2021-05-05 08:36:43,4,0,0,0.0
+4, 2   2   0 ,VERU,Veru Inc. Common Stock,2021-05-05 08:36:43,2,2,0,-0.33333333333333337
+4, 2   2   0 ,JD,JD.com Inc. American Depositary Shares,2021-05-05 08:36:43,2,2,0,-0.33333333333333337
+3, 1   1   1 ,PYPL,PayPal Holdings Inc. Common Stock,2021-05-05 08:36:43,1,1,1,-0.6666666666666667
+3, 0   2   1 ,FSLY,Fastly Inc. Class A Common Stock,2021-05-05 08:36:43,0,2,1,-1.0
+3, 0   1   2 ,TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,2021-05-05 08:36:43,0,1,2,-1.0
+3, 2   1   0 ,INTC,Intel Corporation Common Stock,2021-05-05 08:36:43,2,1,0,1.0
+3, 2   1   0 ,WKHS,Workhorse Group Inc. Common Stock,2021-05-05 08:36:43,2,1,0,-0.33333333333333337
+3, 3   0   0 ,DNN,Denison Mines Corp Ordinary Shares (Canada),2021-05-05 08:36:43,3,0,0,0.5
+3, 0   0   3 ,UA,Under Armour Inc. Class C Common Stock,2021-05-05 08:36:43,0,0,3,
+3, 0   2   1 ,COCP,Cocrystal Pharma Inc. Common Stock,2021-05-05 08:36:43,0,2,1,-1.0
+3, 2   0   1 ,BAC,Bank of America Corporation Common Stock,2021-05-05 08:36:43,2,0,1,-0.5
+3, 1   1   1 ,GOLD,Barrick Gold Corporation Common Stock (BC),2021-05-05 08:36:43,1,1,1,0.0
+3, 2   1   0 ,CLVS,Clovis Oncology Inc. Common Stock,2021-05-05 08:36:43,2,1,0,1.0
+3, 2   0   1 ,DPW,Ault Global Holdings Inc. Common Stock,2021-05-05 08:36:43,2,0,1,
+3, 2   0   1 ,MRNA,Moderna Inc. Common Stock,2021-05-05 08:36:43,2,0,1,1.0
+3, 1   2   0 ,CRM,Salesforce.com Inc Common Stock,2021-05-05 08:36:43,1,2,0,inf
