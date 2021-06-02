@@ -40833,3 +40833,65 @@ occurences,sentiment,ticker,company,date,positive,negative,neutral,pos_pct_chg
 3, 1   2   0 ,NKLA,Nikola Corporation Common Stock,2021-06-01 19:44:27,1,2,0,0.0
 3, 1   0   2 ,MAN,ManpowerGroup Common Stock,2021-06-01 19:44:27,1,0,2,0.0
 3, 2   0   1 ,WPG,Washington Prime Group Inc. Common Stock,2021-06-01 19:44:27,2,0,1,0.0
+1168, 608   153   407 ,BB,BlackBerry Limited Common Stock,2021-06-02 07:20:32,608,153,407,0.4172494172494172
+1069, 544   262   263 ,AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2021-06-02 07:20:32,544,262,263,0.05836575875486383
+292, 105   64   123 ,GME,GameStop Corporation Common Stock,2021-06-02 07:20:32,105,64,123,0.0
+68, 32   15   21 ,NOK,Nokia Corporation Sponsored American Depositary Shares,2021-06-02 07:20:32,32,15,21,2.2
+48, 21   15   12 ,SNDL,Sundial Growers Inc. Common Shares,2021-06-02 07:20:32,21,15,12,-0.08695652173913049
+45, 22   10   13 ,MVIS,MicroVision Inc. Common Stock,2021-06-02 07:20:32,22,10,13,1.0
+40, 18   13   9 ,PLTR,Palantir Technologies Inc. Class A Common Stock,2021-06-02 07:20:32,18,13,9,-0.1428571428571429
+39, 21   6   12 ,TLRY,Tilray Inc. Class 2 Common Stock ,2021-06-02 07:20:32,21,6,12,0.3999999999999999
+29, 10   10   9 ,SPY,SPDR S&P 500 ETF Trust,2021-06-02 07:20:32,10,10,9,0.0
+20, 11   7   2 ,TSLA,Tesla Inc. Common Stock,2021-06-02 07:20:32,11,7,2,0.0
+15, 10   0   5 ,FUBO,fuboTV Inc. Common Stock,2021-06-02 07:20:32,10,0,5,inf
+14, 9   3   2 ,NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,2021-06-02 07:20:32,9,3,2,-0.4
+13, 9   3   1 ,SPCE,Virgin Galactic Holdings Inc. Common Stock,2021-06-02 07:20:32,9,3,1,-0.47058823529411764
+13, 5   4   4 ,UWMC,UWM Holdings Corporation Class A Common Stock,2021-06-02 07:20:32,5,4,4,0.0
+13, 5   1   7 ,CLOV,Clover Health Investments Corp. Class A Common Stock,2021-06-02 07:20:32,5,1,7,-0.6153846153846154
+12, 6   5   1 ,AMD,Advanced Micro Devices Inc. Common Stock,2021-06-02 07:20:32,6,5,1,-0.6
+12, 4   5   3 ,AAPL,Apple Inc. Common Stock,2021-06-02 07:20:32,4,5,3,-0.33333333333333337
+12, 9   0   3 ,SKLZ,Skillz Inc. Class A Common Stock,2021-06-02 07:20:32,9,0,3,0.8
+12, 8   1   3 ,TELL,Tellurian Inc. Common Stock,2021-06-02 07:20:32,8,1,3,0.33333333333333326
+8, 2   3   3 ,RKT,Rocket Companies Inc. Class A Common Stock,2021-06-02 07:20:32,2,3,3,-0.7142857142857143
+8, 5   0   3 ,AHT,Ashford Hospitality Trust Inc Common Stock,2021-06-02 07:20:32,5,0,3,0.0
+7, 6   1   0 ,LAZR,Luminar Technologies Inc.  Class A Common Stock,2021-06-02 07:20:32,6,1,0,1.0
+6, 5   1   0 ,MNMD,Mind Medicine (MindMed) Inc.,2021-06-02 07:20:32,5,1,0,-0.5833333333333333
+6, 4   2   0 ,BCTX,BriaCell Therapeutics Corp. Common Shares,2021-06-02 07:20:32,4,2,0,
+6, 1   3   2 ,DKNG,DraftKings Inc. Class A Common Stock,2021-06-02 07:20:32,1,3,2,-0.5
+6, 3   0   3 ,ASO,Academy Sports and Outdoors Inc. Common Stock,2021-06-02 07:20:32,3,0,3,-0.75
+5, 2   1   2 ,WISH,ContextLogic Inc. Class A Common Stock,2021-06-02 07:20:32,2,1,2,1.0
+5, 3   1   1 ,BYND,Beyond Meat Inc. Common Stock,2021-06-02 07:20:32,3,1,1,0.5
+5, 3   2   0 ,BTX,Brooklyn ImmunoTherapeutics Inc. Common Stock,2021-06-02 07:20:32,3,2,0,-0.25
+5, 3   1   1 ,BBW,Build-A-Bear Workshop Inc. Common Stock,2021-06-02 07:20:32,3,1,1,2.0
+4, 3   0   1 ,CCL,Carnival Corporation Common Stock,2021-06-02 07:20:32,3,0,1,0.5
+4, 3   1   0 ,FSR,Fisker Inc. Class A Common Stock,2021-06-02 07:20:32,3,1,0,0.5
+4, 4   0   0 ,CLVS,Clovis Oncology Inc. Common Stock,2021-06-02 07:20:32,4,0,0,1.0
+4, 3   0   1 ,NVDA,NVIDIA Corporation Common Stock,2021-06-02 07:20:32,3,0,1,-0.5714285714285714
+4, 1   0   3 ,ACB,Aurora Cannabis Inc. Common Shares,2021-06-02 07:20:32,1,0,3,-0.6666666666666667
+4, 1   2   1 ,CC,Chemours Company (The) Common Stock,2021-06-02 07:20:32,1,2,1,0.0
+4, 4   0   0 ,NKLA,Nikola Corporation Common Stock,2021-06-02 07:20:32,4,0,0,3.0
+4, 1   1   2 ,PENN,Penn National Gaming Inc. Common Stock,2021-06-02 07:20:32,1,1,2,-0.5
+4, 0   1   3 ,PEI,Pennsylvania Real Estate Investment Trust Common Stock,2021-06-02 07:20:32,0,1,3,-1.0
+4, 2   1   1 ,APPS,Digital Turbine Inc. Common Stock,2021-06-02 07:20:32,2,1,1,0.0
+3, 2   1   0 ,BP,BP p.l.c. Common Stock,2021-06-02 07:20:32,2,1,0,0.0
+3, 2   0   1 ,PSFE,Paysafe Limited Common Shares,2021-06-02 07:20:32,2,0,1,1.0
+3, 0   1   2 ,MO,Altria Group Inc.,2021-06-02 07:20:32,0,1,2,-1.0
+3, 0   0   3 ,MC,Moelis & Company Class A Common Stock,2021-06-02 07:20:32,0,0,3,-1.0
+3, 3   0   0 ,ETH,Ethan Allen Interiors Inc. Common Stock,2021-06-02 07:20:32,3,0,0,2.0
+3, 1   2   0 ,SAVE,Spirit Airlines Inc. Common Stock,2021-06-02 07:20:32,1,2,0,-0.6666666666666667
+3, 2   1   0 ,VIAC,ViacomCBS Inc. Class B Common Stock,2021-06-02 07:20:32,2,1,0,1.0
+3, 1   2   0 ,SQ,Square Inc. Class A Common Stock,2021-06-02 07:20:32,1,2,0,-0.75
+3, 1   1   1 ,IBKR,Interactive Brokers Group Inc. Class A Common Stock,2021-06-02 07:20:32,1,1,1,inf
+3, 1   1   1 ,PTON,Peloton Interactive Inc. Class A Common Stock,2021-06-02 07:20:32,1,1,1,-0.75
+3, 3   0   0 ,FORD,Forward Industries Inc. Common Stock,2021-06-02 07:20:32,3,0,0,inf
+3, 3   0   0 ,ATOS,Atossa Therapeutics Inc. Common Stock,2021-06-02 07:20:32,3,0,0,0.5
+3, 3   0   0 ,ABNB,Airbnb Inc. Class A Common Stock,2021-06-02 07:20:32,3,0,0,2.0
+3, 3   0   0 ,ZOM,Zomedica Corp. Common Shares,2021-06-02 07:20:32,3,0,0,0.5
+3, 3   0   0 ,AAL,American Airlines Group Inc. Common Stock,2021-06-02 07:20:32,3,0,0,0.0
+3, 1   2   0 ,CMO,Capstead Mortgage Corporation Common Stock,2021-06-02 07:20:32,1,2,0,
+3, 3   0   0 ,SRNE,Sorrento Therapeutics Inc.  Common Stock,2021-06-02 07:20:32,3,0,0,0.5
+3, 1   1   1 ,CLF,Cleveland-Cliffs Inc. Common Stock,2021-06-02 07:20:32,1,1,1,-0.8571428571428572
+3, 3   0   0 ,VALE,VALE S.A.  American Depositary Shares Each Representing one common share,2021-06-02 07:20:32,3,0,0,-0.5
+3, 1   0   2 ,BBBY,Bed Bath & Beyond Inc. Common Stock,2021-06-02 07:20:32,1,0,2,-0.5
+3, 2   1   0 ,PH,Parker-Hannifin Corporation Common Stock,2021-06-02 07:20:32,2,1,0,0.0
+3, 0   0   3 ,NBA,New Beginnings Acquisition Corp. Common Stock,2021-06-02 07:20:32,0,0,3,
